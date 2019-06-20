@@ -4,29 +4,37 @@
   <title>ПОДВАЛ.ТРЁП</title>
   <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
   <language>ru-ru</language>
-  <description>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело.</description>
+  <description>Еженедельный подкаст от основателей Minsk PODVAL Sessions. Разговоры о музыке, технологиях, кино, событиях Минска с жестким пердосрачем на любую тему потому что Саша БЛИН НЕ МОЖЕТ НЕ МАТЕРИТЬСЯ И НЕ СПОРИТЬ ПРОСТО РАДИ СПОРА.</description>
   <copyright>PODVAL sessions</copyright>
-  <itunes:subtitle>Еженедельные подкасты, созданные на базе PODVAL sessions</itunes:subtitle>
+  <itunes:subtitle>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело.</itunes:subtitle>
   <itunes:author>PODVAL sessions</itunes:author>
-  <itunes:summary>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело. </itunes:summary>
+  <itunes:summary>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело.</itunes:summary>
   <itunes:owner>
     <itunes:name>PODVAL sessions</itunes:name>
     <itunes:email>podval.sessions@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://cerberart.github.io/podval-trep/podcasts/podcast-logo.jpg" />
-  <itunes:category text="Podcasting"/>
+  <itunes:image href="https://cerberart.github.io/podval-trep/images/podcast-logo.jpg" />
+  <itunes:category text="Music"/>
+  <itunes:category text="Technology">
+    <itunes:category text="Gadgets" />
+    <itunes:category text="Podcasting" />
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Personal Journals" />
+    <itunes:category text="Places &amp; Travel" />
+  </itunes:category>
 
-    <item>
-      <title>ПОДВАЛ.ТРЁП – 001 </title>
-      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-      <itunes:subtitle>001</itunes:subtitle>
-      <itunes:summary>1. Сервис электросамокатов открылся и закрылся 2. Moby сходит с ума3. Экспериментальщина от Son Lux или пародия на Тома Йорка 4. Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов 5. Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы? 6. Евровидение. Дробыш последняя надежда и не выглядящая на 16 лет артистка 7. Mono в Минске. Пост-рок в 2019 году??? 8. Сексизм Иванович 9. Рубрика Что это за х***я? 10. Концерт Mustelide и вторая вечеринка Ballantines 11. СОЮЗ новое забытое старое в навернутой обвертке 12. Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов 13. Royksopp все по скандинавски, главное не напороться на родственника  14. Рок за бобров завоевывает молодую аудиторию  15. Подвальные новости</itunes:summary>
-      <itunes:image href="https://cerberart.github.io/podval-trep/images/001/banner.jpg" />
-      <enclosure url="https://cerberart.github.io/podval-trep/podcasts/PODVAL.TREP%20-%20001.mp3" length="153124570" type="audio/mpeg"/>
-      <guid>1</guid>
-      <pubDate>Thu Jun 20 2019 01:34:59 GMT+0300 (Moscow Standard Time)</pubDate>
-      <itunes:duration>01:03:48</itunes:duration>
-    </item>
+  <item>
+    <title>ПОДВАЛ.ТРЁП – 001 </title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>001</itunes:subtitle>
+    <itunes:summary>1. Сервис электросамокатов открылся и закрылся 2. Moby сходит с ума3. Экспериментальщина от Son Lux или пародия на Тома Йорка 4. Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов 5. Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы? 6. Евровидение. Дробыш последняя надежда и не выглядящая на 16 лет артистка 7. Mono в Минске. Пост-рок в 2019 году??? 8. Сексизм Иванович 9. Рубрика Что это за х***я? 10. Концерт Mustelide и вторая вечеринка Ballantines 11. СОЮЗ новое забытое старое в навернутой обвертке 12. Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов 13. Royksopp все по скандинавски, главное не напороться на родственника  14. Рок за бобров завоевывает молодую аудиторию  15. Подвальные новости</itunes:summary>
+    <itunes:image href="https://cerberart.github.io/podval-trep/images/001/banner.jpg" />
+    <enclosure url="https://cerberart.github.io/podval-trep/podcasts/PODVAL.TREP%20-%20001.mp3" length="153124570" type="audio/mpeg"/>
+    <guid>1</guid>
+    <pubDate>Sun May 19 2019 01:34:59 GMT+0300 (Moscow Standard Time)</pubDate>
+    <itunes:duration>01:03:48</itunes:duration>
+  </item>
 
 </channel>
 </rss>
