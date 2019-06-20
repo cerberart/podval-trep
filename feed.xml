@@ -1,34 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-  <channel>
-    <title>Serial</title>
-    <link>https://serialpodcast.org</link>
-    <description>Serial is a new podcast from the creators of This American Life,
-    hosted by Sarah Koenig. Serial unfolds one story - a true story - over the course of a whole
-    season. The show follows the plot and characters wherever they lead, through many surprising
-    twists and turns. Sarah won't know what happens at the end of the story until she gets there, not
-    long before you get there with her. Each week she'll bring you the latest chapter, so it's
-    important to listen in, starting with Episode 1. New episodes are released on Thursday
-    mornings. Serial, like This American Life, is a production of WBEZ Chicago.
-    </description>
-    <language>en</language>
-    <itunes:author>This American Life</itunes:author>
-    <itunes:category text="News & Politics" />
-    <itunes:image
-    href="https://serialpodcast.org/sites/all/modules/custom/serial/img/serial-itunes-logo.png" />
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>ПОДВАЛ.ТРЁП</title>
+  <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
+  <language>ru-ru</language>
+  <copyright>PODVAL sessions</copyright>
+  <itunes:subtitle>Еженедельные подкасты, созданные на базе PODVAL sessions</itunes:subtitle>
+  <itunes:author>PODVAL sessions</itunes:author>
+  <itunes:summary>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело. </itunes:summary>
+  <itunes:owner>
+    <itunes:name>PODVAL sessions</itunes:name>
+    <itunes:email>podval.sessions@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://pp.userapi.com/c851120/v851120457/4cd26/PGF7sp6Wfk0.jpg" />
+  <itunes:category text="Podcasting"/>
+
     <item>
-    <guid>1234</guid>
-    <title>Episode 09: To Be Suspected</title>
-    <description>New information is coming in about what maybe did not happen on
-    January 13, 1999. And while the memory of that day is foggy at best, he does remember what
-    happened next: being questioned, being arrested and, a little more than a year later, being
-    sentenced to life in prison.</description>
-    <pubDate>Thu, 20 Nov 2014 10:30:00 +0000</pubDate>
-    <itunes:order>9</itunes:order>
-    <itunes:duration>2700</itunes:duration>
-    <enclosure
-    url="https://dts.podtrac.com/redirect.mp3/files.serialpodcast.org/sites/default/files/podcast/14224
-    81890/serial-s01-e09.mp3" type="audio/mpeg" />
+      <title>ПОДВАЛ.ТРЁП – 001 </title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>001</itunes:subtitle>
+      <itunes:summary>1. Сервис электросамокатов открылся и закрылся 2. Moby сходит с ума3. Экспериментальщина от Son Lux или пародия на Тома Йорка 4. Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов 5. Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы? 6. Евровидение. Дробыш последняя надежда и не выглядящая на 16 лет артистка 7. Mono в Минске. Пост-рок в 2019 году??? 8. Сексизм Иванович 9. Рубрика Что это за х***я? 10. Концерт Mustelide и вторая вечеринка Ballantines 11. СОЮЗ новое забытое старое в навернутой обвертке 12. Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов 13. Royksopp все по скандинавски, главное не напороться на родственника  14. Рок за бобров завоевывает молодую аудиторию  15. Подвальные новости</itunes:summary>
+      <itunes:image href="https://thumbnailer.mixcloud.com/unsafe/300x300/extaudio/7/3/b/2/5cc8-7707-4e4e-b982-a986f1391da2" />
+      <enclosure url="https://cerberart.github.io/podval-trep/podcasts/PODVAL.TREP%20-%20001.mp3" length="153124570" type="audio/mpeg"/>
+      <guid>1</guid>
+      <pubDate>Thu Jun 20 2019 01:34:59 GMT+0300 (Moscow Standard Time)</pubDate>
+      <itunes:duration>01:03:48</itunes:duration>
     </item>
-  </channel>
+
+</channel>
 </rss>
