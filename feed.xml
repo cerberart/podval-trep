@@ -74,7 +74,7 @@
     </itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/001/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+001.mp3" length="153124570" type="audio/mpeg"/>
-    <pubDate>Sun May 19 2019 01:34:59 GMT+0300</pubDate>
+    <pubDate>Sun, 19 May 2019 01:34:59 GMT</pubDate>
     <itunes:duration>01:03:48</itunes:duration>
     <itunes:order>0</itunes:order>
     <itunes:explicit>no</itunes:explicit>
@@ -105,7 +105,7 @@
     </itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/002/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+002.mp3" length="126777468" type="audio/mpeg"/>
-    <pubDate>Mon May 27 2019 10:34:59 GMT+0300</pubDate>
+    <pubDate>Mon, 27 May 2019 10:34:59 GMT</pubDate>
     <itunes:duration>00:52:49</itunes:duration>
     <itunes:order>2</itunes:order>
     <itunes:explicit>no</itunes:explicit>
@@ -138,7 +138,7 @@
       * монохромный геймбой с динамо машиной PLAYDATE.</itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/003/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+003.mp3" length="202239999" type="audio/mpeg"/>
-    <pubDate>Tue Jun 04 2019 10:34:59 GMT+0300</pubDate>
+    <pubDate>Tue, 04 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:24:16</itunes:duration>
     <itunes:order>3</itunes:order>
     <itunes:explicit>no</itunes:explicit>
@@ -171,7 +171,7 @@
       * Купи стойку за 999$, премиум продукты от Эпл (наконец-то темная IOS, привет 2019!)</itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/004/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+004.mp3" length="165839933" type="audio/mpeg"/>
-    <pubDate>Mon Jun 10 2019 10:34:59 GMT+0300</pubDate>
+    <pubDate>Mon, 10 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:09:06</itunes:duration>
     <itunes:order>4</itunes:order>
     <itunes:explicit>no</itunes:explicit>
@@ -205,7 +205,7 @@
       * $150к за 18 часов студийных записей OK Computer; Долой жетоны/талоны и наличку. HI-TECH Минск;</itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/005/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+005.mp3" length="149355970" type="audio/mpeg"/>
-    <pubDate>Mon Jun 17 2019 10:34:59 GMT+0300</pubDate>
+    <pubDate>Mon, 17 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:17:47</itunes:duration>
     <itunes:order>5</itunes:order>
     <itunes:explicit>no</itunes:explicit>
@@ -240,7 +240,7 @@
       * Посоветуйте куда сходить;</itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+006.mp3" length="160399918" type="audio/mpeg"/>
-    <pubDate>Mon Jun 24 2019 10:34:59 GMT+0300</pubDate>
+    <pubDate>Mon, 24 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:23:32</itunes:duration>
     <itunes:order>6</itunes:order>
     <itunes:explicit>no</itunes:explicit>
