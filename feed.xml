@@ -290,5 +290,40 @@
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+  <item>
+    <guid>eacda271676e67757clhldhfjskd04b16e76-15</guid>
+    <title>ПОДВАЛ.ТРЁП – 008</title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>008</itunes:subtitle>
+    <description>
+      * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
+      * Сервис за который не стыдно забрать бокал
+      * В Норвегии питаться только в магазине
+      * Вулица Ежи – фестиваль, на котором можно топтать газон
+      * Двигатель прогресса – порно и комьютерные игры
+      * Бесконтактные кольца
+      * Time Free остров в Норвегии – беспробудное пьянство
+      * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
+      * Что посетить на неделе в Минске?
+    </description>
+    <itunes:summary>
+      * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
+      * Сервис за который не стыдно забрать бокал
+      * В Норвегии питаться только в магазине
+      * Вулица Ежи – фестиваль, на котором можно топтать газон
+      * Двигатель прогресса – порно и комьютерные игры
+      * Бесконтактные кольца
+      * Time Free остров в Норвегии – беспробудное пьянство
+      * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
+      * Что посетить на неделе в Минске?
+    </itunes:summary>
+    <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+008.mp3" length="256673958" type="audio/mpeg"/>
+    <pubDate>Mon, 08 Jul 2019 06:00:00 GMT</pubDate>
+    <itunes:duration>01:46:57</itunes:duration>
+    <itunes:order>8</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
