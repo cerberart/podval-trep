@@ -368,7 +368,7 @@
       * Меломаны - место застрявших во времени хипстеров
       * Куда сгонять в Минске?
     </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
+    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/Artboard+1+square+copy.png" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+009.mp3" length="154087420" type="audio/mpeg"/>
     <pubDate>Mon, 15 Jul 2019 06:00:00 GMT</pubDate>
     <itunes:duration>01:47:00</itunes:duration>
