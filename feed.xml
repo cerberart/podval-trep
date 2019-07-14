@@ -113,9 +113,9 @@
 
   <item>
     <guid>003</guid>
-    <title>ПОДВАЛ.ТРЁП – 003</title>
+    <title>ПОДВАЛ.ТРЁП – 003 (гость Awlnight)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>003</itunes:subtitle>
+    <itunes:subtitle>003 (гость Awlnight)</itunes:subtitle>
     <description>
       * 200$ на билет незнакомому вкуснопахнущему мужчине;
       * новая музыка в Минске - stealurmind (сайд проект Awlnight);
@@ -184,9 +184,9 @@
 
   <item>
     <guid>005</guid>
-    <title>ПОДВАЛ.ТРЁП – 005</title>
+    <title>ПОДВАЛ.ТРЁП – 005 (гость Dee Tree)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>005</itunes:subtitle>
+    <itunes:subtitle>005 (гость Dee Tree)</itunes:subtitle>
     <description>
       * Официально: взросление не то что вы думали;
       * Солодуха предел всех мечтаний;
@@ -270,6 +270,8 @@
       * Гвоздь программы: новый альбом Тома Йорка Анима и одноименная короткометражка;
       * Музыкальный дайджест: Etherwood, Комсомольск, Black Keys;
       * Куда сходить на следующей неделе (по секрету – на следующей никуда);
+
+      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=5tfzMhjy3ZU
     </description>
     <itunes:summary>
       * Учись разговаривать на языке жестов;
@@ -281,6 +283,8 @@
       * Гвоздь программы: новый альбом Тома Йорка Анима и одноименная короткометражка;
       * Музыкальный дайджест: Etherwood, Комсомольск, Black Keys;
       * Куда сходить на следующей неделе (по секрету – на следующей никуда);
+
+      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=5tfzMhjy3ZU
     </itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+007.mp3" length="242359901" type="audio/mpeg"/>
@@ -292,9 +296,9 @@
 
   <item>
     <guid>eacda271676e67757clhldhfjskd04b16e76-15</guid>
-    <title>ПОДВАЛ.ТРЁП – 008</title>
+    <title>ПОДВАЛ.ТРЁП – 008 (гость Вулица Ежа)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>008</itunes:subtitle>
+    <itunes:subtitle>008 (гость Вулица Ежа)</itunes:subtitle>
     <description>
       * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
       * Сервис за который не стыдно забрать бокал
@@ -305,6 +309,8 @@
       * Time Free остров в Норвегии – беспробудное пьянство
       * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
       * Что посетить на неделе в Минске?
+
+      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=DQ88yXBo2tI
     </description>
     <itunes:summary>
       * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
@@ -316,12 +322,57 @@
       * Time Free остров в Норвегии – беспробудное пьянство
       * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
       * Что посетить на неделе в Минске?
+
+      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=DQ88yXBo2tI
     </itunes:summary>
     <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+008.mp3" length="256673958" type="audio/mpeg"/>
     <pubDate>Mon, 08 Jul 2019 06:00:00 GMT</pubDate>
     <itunes:duration>01:46:57</itunes:duration>
     <itunes:order>8</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>eacda27lk12jl3257757clhldhfjskd04b16e76-1f</guid>
+    <title>ПОДВАЛ.ТРЁП – 009</title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>009</itunes:subtitle>
+    <description>
+      * Неостросюжетная история Саши о потерянном телефоне
+      * Дедушки злостные воришки шеринговых велосипедов
+      * Будет почти без спойлеров – новый сезон Stranger Things
+      * 3 попытка поговорить о Черном Зеркале
+      * Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками
+      * Голуби и безумные кашевары - угадайте что это
+      * Хитрая подписка 65daysofstatic - попытка заработать хоть как-то
+      * Новый альбом Banks маскирующийся под Lorn
+      * Chase & Status – джангловая любовь Саши
+      * Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим
+      * Новый гастрофест в Минске
+      * Меломаны - место застрявших во времени хипстеров
+      * Куда сгонять в Минске?
+    </description>
+    <itunes:summary>
+      * Неостросюжетная история Саши о потерянном телефоне
+      * Дедушки злостные воришки шеринговых велосипедов
+      * Будет почти без спойлеров – новый сезон Stranger Things
+      * 3 попытка поговорить о Черном Зеркале
+      * Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками
+      * Голуби и безумные кашевары - угадайте что это
+      * Хитрая подписка 65daysofstatic - попытка заработать хоть как-то
+      * Новый альбом Banks маскирующийся под Lorn
+      * Chase & Status – джангловая любовь Саши
+      * Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим
+      * Новый гастрофест в Минске
+      * Меломаны - место застрявших во времени хипстеров
+      * Куда сгонять в Минске?
+    </itunes:summary>
+    <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+009.mp3" length="154087420" type="audio/mpeg"/>
+    <pubDate>Mon, 15 Jul 2019 06:00:00 GMT</pubDate>
+    <itunes:duration>01:47:00</itunes:duration>
+    <itunes:order>9</itunes:order>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
