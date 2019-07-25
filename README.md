@@ -1,3 +1,8 @@
+Apple Podcasts - https://podcasts.apple.com/by/podcast/%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB-%D1%82%D1%80%D1%91%D0%BF/id1469445210?ign-mpt=uo%3D4
+TuneIn - https://tunein.com/podcasts/Podcasts/CELLAR-TRIP-p1230049/
+Mixcloud - https://www.mixcloud.com/PodvalSessions/
+VK - https://vk.com/podcasts-174196830
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cerberart/podval-trep/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

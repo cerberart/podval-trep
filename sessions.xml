@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>PODVAL</title>
+  <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
+  <language>en-US</language>
+  <description>Collection of DJ live sessions from PODVAL and PODVAL COZY.</description>
+  <copyright>PODVAL sessions</copyright>
+  <itunes:subtitle>PODVAL - is a home for music collected gently by human ears.</itunes:subtitle>
+  <itunes:author>PODVAL sessions</itunes:author>
+  <itunes:summary>Collection of DJ live sessions from PODVAL and PODVAL COZY.</itunes:summary>
+  <itunes:owner>
+    <itunes:name>PODVAL sessions</itunes:name>
+    <itunes:email>podval.sessions@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://cerberart.github.io/podval-trep/images/podcast-logo.jpg" />
+  <itunes:category text="Music"/>
+  <itunes:category text="Technology">
+    <itunes:category text="Gadgets" />
+    <itunes:category text="Podcasting" />
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Personal Journals" />
+    <itunes:category text="Places &amp; Travel" />
+  </itunes:category>
+  <itunes:explicit>no</itunes:explicit>
+
+  <item>
+    <guid>38aee97a5f91717fa4df662eb3c83902-12</guid>
+    <title>PODVAL.001 - Anatoly.möd</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>001</itunes:subtitle>
+    <description>
+      Great collection of electro, house and techno tracks, gently and carefully assembled by Anatoly from möd collective.
+    </description>
+    <itunes:summary>
+      Great collection of electro, house and techno tracks, gently and carefully assembled by Anatoly from möd collective.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/001mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.001+-+Anatoly.mo%CC%88d.mp3" length="189004320" type="audio/mpeg"/>
+    <pubDate>Sun, 19 May 2019 01:34:59 GMT</pubDate>
+    <itunes:duration>01:18:45</itunes:duration>
+    <itunes:order>0</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>f357e18d8d7392b90aed277b3f15ad0f-9</guid>
+    <title>PODVAL.002 - Alexander.möd</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>002</itunes:subtitle>
+    <description>
+      Aleksander from möd is debuting and crushing PODVAL sessions. Shake your legs, move your body and listen carefully to this killing mix full of techno tracks.
+    </description>
+    <itunes:summary>
+      Aleksander from möd is debuting and crushing PODVAL sessions. Shake your legs, move your body and listen carefully to this killing mix full of techno tracks.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/002mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.002+-+Alexander.m%C3%B6d.mp3" length="148530199" type="audio/mpeg"/>
+    <pubDate>Mon, 27 May 2019 10:34:59 GMT</pubDate>
+    <itunes:duration>01:01:53</itunes:duration>
+    <itunes:order>2</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>0d0adb3588105706f9f55e4ab55f9e4f-5</guid>
+    <title>PODVAL.COZY.003 - Editorial Part I</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>COZY.003</itunes:subtitle>
+    <description>
+      Smooth, groovy and full of warm melodies mix by its permanent editor Arty9000.
+    </description>
+    <itunes:summary>
+      Smooth, groovy and full of warm melodies mix by its permanent editor Arty9000.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/003mixcloud1.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.003+-+Editorial+Part+I.mp3" length="76633905" type="audio/mpeg"/>
+    <pubDate>Tue, 04 Jun 2019 10:34:59 GMT</pubDate>
+    <itunes:duration>00:31:55</itunes:duration>
+    <itunes:order>3</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>bba446edda41d7fb870d04262aaa48b1-5</guid>
+    <title>PODVAL.COZY.003 - Editorial Part II</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>COZY.003</itunes:subtitle>
+    <description>
+       tranquil, groovy and ambient mix by its permanent editor Tolya.
+    </description>
+    <itunes:summary>
+      tranquil, groovy and ambient mix by its permanent editor Tolya.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/003mixcloud2.png" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+004.mp3" length="77441610" type="audio/mpeg"/>
+    <pubDate>Mon, 10 Jun 2019 10:34:59 GMT</pubDate>
+    <itunes:duration>00:32:16</itunes:duration>
+    <itunes:order>4</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>28ff12c4361dee3d55ee07995fef7c1a-9</guid>
+    <title>PODVAL.004 - Marmi</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>004</itunes:subtitle>
+    <description>
+      Introducing Marmi - great father, electronic music teacher, producer and musician. He crushed our Podval Sessions with his beast house mix.
+    </description>
+    <itunes:summary>
+      Introducing Marmi - great father, electronic music teacher, producer and musician. He crushed our Podval Sessions with his beast house mix.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/004mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.004+-+Marmi.mp3" length="152160262" type="audio/mpeg"/>
+    <pubDate>Mon, 17 Jun 2019 10:34:59 GMT</pubDate>
+    <itunes:duration>01:45:39</itunes:duration>
+    <itunes:order>5</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>26393ad231359a7acf929a578d657360-8</guid>
+    <title>PODVAL.005 - Senary</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>005</itunes:subtitle>
+    <description>
+        Listen and dance with us to the incredibly huge, frenchy and groovy beats gently collected by misterious Senary.
+    </description>
+    <itunes:summary>
+        Listen and dance with us to the incredibly huge, frenchy and groovy beats gently collected by misterious Senary.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/005mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.005+-+Senary.mp3" length="131167859" type="audio/mpeg"/>
+    <pubDate>Mon, 24 Jun 2019 10:34:59 GMT</pubDate>
+    <itunes:duration>01:31:05</itunes:duration>
+    <itunes:order>6</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>6c4131ab898c906ea97b91cfb97ae134-12</guid>
+    <title>PODVAL.COZY.006 - Tendresse Rage</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>COZY.006</itunes:subtitle>
+    <description>
+      Get jizzy with us under the electro beat driven vibes w/ beautiful and mesmerizing Tendresse Rage.
+    </description>
+    <itunes:summary>
+      Get jizzy with us under the electro beat driven vibes w/ beautiful and mesmerizing Tendresse Rage.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/006mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.006++-+Tendresse+Rage.mp3" length="194267055" type="audio/mpeg"/>
+    <pubDate>Mon, 01 Jul 2019 06:00:00 GMT</pubDate>
+    <itunes:duration>02:14:54</itunes:duration>
+    <itunes:order>7</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>50be907f25b7ba46f0fb3fc8341f2470-13</guid>
+    <title>PODVAL.007 - Yanlis</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>007</itunes:subtitle>
+    <description>
+      Get your ass shaked with the hottest mix of electro / dnb / dubstep aggresively played by Yanlis on Podval Sessions.
+    </description>
+    <itunes:summary>
+      Get your ass shaked with the hottest mix of electro / dnb / dubstep aggresively played by Yanlis on Podval Sessions.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/007mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.007+-+Yanlis.mp3" length="206707610" type="audio/mpeg"/>
+    <pubDate>Mon, 08 Jul 2019 06:00:00 GMT</pubDate>
+    <itunes:duration>01:47:39</itunes:duration>
+    <itunes:order>8</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>52ef4802055abe094f4310d92bd33bc0-11</guid>
+    <title>PODVAL.COZY.008 - FB</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>COZY.008</itunes:subtitle>
+    <description>
+      Dance with us under the truly uk garage driven mix by FB (Fucking Boyfriend).
+    </description>
+    <itunes:summary>
+      Dance with us under the truly uk garage driven mix by FB (Fucking Boyfriend).
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/008mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.008+-+FB.mp3" length="180493628" type="audio/mpeg"/>
+    <pubDate>Mon, 15 Jul 2019 06:00:00 GMT</pubDate>
+    <itunes:duration>01:15:12</itunes:duration>
+    <itunes:order>9</itunes:order>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>b7f53c1bd83ebc9a631a6abca4216ad2-9</guid>
+    <title>PODVAL.COZY.009 - Kosmonavt</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>COZY.009</itunes:subtitle>
+    <description>
+      Get ready to shake your booties for this thrilling and groovy playlist arranged by Kosmonavt. Make some noise!
+    </description>
+    <itunes:summary>
+      Get ready to shake your booties for this thrilling and groovy playlist arranged by Kosmonavt. Make some noise!
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/009mixcloud.png" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.009+-+Kosmonavt.mp3" length="148294261" type="audio/mpeg"/>
+    <pubDate>Mon, 22 Jul 2019 10:00:00 GMT</pubDate>
+    <itunes:duration>01:42:58</itunes:duration>
+    <itunes:order>10</itunes:order>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+
+</channel>
+</rss>
