@@ -13,16 +13,8 @@
     <itunes:name>PODVAL sessions</itunes:name>
     <itunes:email>podval.sessions@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://cerberart.github.io/podval-trep/images/podcast-logo.jpg" />
+  <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/podval-logo.jpg" />
   <itunes:category text="Music"/>
-  <itunes:category text="Technology">
-    <itunes:category text="Gadgets" />
-    <itunes:category text="Podcasting" />
-  </itunes:category>
-  <itunes:category text="Society &amp; Culture">
-    <itunes:category text="Personal Journals" />
-    <itunes:category text="Places &amp; Travel" />
-  </itunes:category>
   <itunes:explicit>no</itunes:explicit>
 
   <item>
