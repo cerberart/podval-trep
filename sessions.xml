@@ -86,7 +86,7 @@
       tranquil, groovy and ambient mix by its permanent editor Tolya.
     </itunes:summary>
     <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/003mixcloud2.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+004.mp3" length="77441610" type="audio/mpeg"/>
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.003+-+Editorial+Part+II.mp3" length="77441610" type="audio/mpeg"/>
     <pubDate>Mon, 10 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>00:32:16</itunes:duration>
     <itunes:order>4</itunes:order>
@@ -199,7 +199,7 @@
     <itunes:summary>
       Get ready to shake your booties for this thrilling and groovy playlist arranged by Kosmonavt. Make some noise!
     </itunes:summary>
-    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/009mixcloud.png" />
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/009mixcloud.jpg" />
     <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.009+-+Kosmonavt.mp3" length="148294261" type="audio/mpeg"/>
     <pubDate>Mon, 22 Jul 2019 10:00:00 GMT</pubDate>
     <itunes:duration>01:42:58</itunes:duration>
