@@ -505,7 +505,7 @@
       Ссылки из выпуска:
       * 23andme.com - тот самый ДНК тест
       * https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!
-      * https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций
+      * https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему определения ДНК
 
       В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.
     </itunes:summary>
@@ -513,8 +513,63 @@
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+012.mp3" length="349760782" type="audio/mpeg"/>
     <pubDate>Mon, 05 Aug 2019 10:00:00 GMT</pubDate>
     <itunes:duration>02:25:44</itunes:duration>
-    <itunes:order>11</itunes:order>
+    <itunes:order>12</itunes:order>
     <itunes:explicit>no</itunes:explicit>
+  </item>
+
+  <item>
+    <guid>7381f79573e034296a8e6e6be12dc953-11</guid>
+    <title>ПОДВАЛ.ТРЁП – 013 (The Boys, Рок за бобров, RSConf, Wizzair)</title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>013 (The Boys, Рок за бобров, RSConf, Wizzair)</itunes:subtitle>
+    <description>
+      Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - https://linktr.ee/podval.sessions
+
+      В проклятом, но классическом выпуске:
+       ⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019
+       ⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?
+       ⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?
+       ⁃ WizzAir уже почти виднеется в Минском небе
+       ⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet
+
+      Немножко полезных ссылок:
+      Трейлер The Boys - https://www.youtube.com/watch?v=tcrNsIaQkb4
+      Сервис для ведения дневничка просмотра кино - https://letterboxd.com/ (плюс прилаги для iOS, Android), наши аккаунты:
+       • https://letterboxd.com/sea5calf/ - Вадим
+       • https://letterboxd.com/xejogear/ - Саша
+       • https://letterboxd.com/arty9000/ - Артем
+      Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/
+      Трейлер The Joker - https://youtu.be/t433PEQGErc
+
+      Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)
+    </description>
+    <itunes:summary>
+      Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - https://linktr.ee/podval.sessions
+
+      В проклятом, но классическом выпуске:
+       ⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019
+       ⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?
+       ⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?
+       ⁃ WizzAir уже почти виднеется в Минском небе
+       ⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet
+
+      Немножко полезных ссылок:
+      Трейлер The Boys - https://www.youtube.com/watch?v=tcrNsIaQkb4
+      Сервис для ведения дневничка просмотра кино - https://letterboxd.com/ (плюс прилаги для iOS, Android), наши аккаунты:
+       • https://letterboxd.com/sea5calf/ - Вадим
+       • https://letterboxd.com/xejogear/ - Саша
+       • https://letterboxd.com/arty9000/ - Артем
+      Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/
+      Трейлер The Joker - https://youtu.be/t433PEQGErc
+
+      Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)
+    </itunes:summary>
+    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+013.jpg" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+013.mp3" length="178177297" type="audio/mpeg"/>
+    <pubDate>Mon, 12 Aug 2019 10:00:00 GMT</pubDate>
+    <itunes:duration>02:03:44</itunes:duration>
+    <itunes:order>13</itunes:order>
+    <itunes:explicit>yes</itunes:explicit>
   </item>
 
 </channel>
