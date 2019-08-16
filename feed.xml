@@ -35,6 +35,7 @@
 
   <item>
     <guid>1</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 001</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>001: Начало</itunes:subtitle>
@@ -85,11 +86,15 @@
     <pubDate>Sun, 19 May 2019 01:34:59 GMT</pubDate>
     <itunes:duration>01:03:48</itunes:duration>
     <itunes:order>0</itunes:order>
+    <itunes:episode>001</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>002</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 002</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>002</itunes:subtitle>
@@ -116,11 +121,15 @@
     <pubDate>Mon, 27 May 2019 10:34:59 GMT</pubDate>
     <itunes:duration>00:52:49</itunes:duration>
     <itunes:order>2</itunes:order>
+    <itunes:episode>002</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>003</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 003 (гость Awlnight)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>003 (гость Awlnight)</itunes:subtitle>
@@ -151,11 +160,15 @@
     <pubDate>Tue, 04 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:24:16</itunes:duration>
     <itunes:order>3</itunes:order>
+    <itunes:episode>003</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>004</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 004</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>004</itunes:subtitle>
@@ -187,11 +200,15 @@
     <pubDate>Mon, 10 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:09:06</itunes:duration>
     <itunes:order>4</itunes:order>
+    <itunes:episode>004</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>005</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 005 (гость Dee Tree)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>005 (гость Dee Tree)</itunes:subtitle>
@@ -223,11 +240,15 @@
     <pubDate>Mon, 17 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:17:47</itunes:duration>
     <itunes:order>5</itunes:order>
+    <itunes:episode>005</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>006</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 006</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>006</itunes:subtitle>
@@ -260,11 +281,15 @@
     <pubDate>Mon, 24 Jun 2019 10:34:59 GMT</pubDate>
     <itunes:duration>01:23:32</itunes:duration>
     <itunes:order>6</itunes:order>
+    <itunes:episode>006</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>eacda271676e67757cb9866804b16e76-15</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 007</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>007</itunes:subtitle>
@@ -299,11 +324,15 @@
     <pubDate>Mon, 01 Jul 2019 06:00:00 GMT</pubDate>
     <itunes:duration>01:40:59</itunes:duration>
     <itunes:order>7</itunes:order>
+    <itunes:episode>007</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>eacda271676e67757clhldhfjskd04b16e76-15</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 008 (гость Вулица Ежа)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>008 (гость Вулица Ежа)</itunes:subtitle>
@@ -338,237 +367,198 @@
     <pubDate>Mon, 08 Jul 2019 06:00:00 GMT</pubDate>
     <itunes:duration>01:46:57</itunes:duration>
     <itunes:order>8</itunes:order>
+    <itunes:episode>008</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>eacda27lk12jl3257757clhldhfjskd04b16e76-1f</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 009</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>009</itunes:subtitle>
-    <description>
-      * Неостросюжетная история Саши о потерянном телефоне
-      * Дедушки злостные воришки шеринговых велосипедов
-      * Будет почти без спойлеров – новый сезон Stranger Things
-      * 3 попытка поговорить о Черном Зеркале
-      * Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками
-      * Голуби и безумные кашевары - угадайте что это
-      * Хитрая подписка 65daysofstatic - попытка заработать хоть как-то
-      * Новый альбом Banks маскирующийся под Lorn
-      * Chase and Status – джангловая любовь Саши
-      * Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим
-      * Новый гастрофест в Минске
-      * Меломаны - место застрявших во времени хипстеров
-      * Куда сгонять в Минске?
-    </description>
-    <itunes:summary>
-      * Неостросюжетная история Саши о потерянном телефоне
-      * Дедушки злостные воришки шеринговых велосипедов
-      * Будет почти без спойлеров – новый сезон Stranger Things
-      * 3 попытка поговорить о Черном Зеркале
-      * Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками
-      * Голуби и безумные кашевары - угадайте что это
-      * Хитрая подписка 65daysofstatic - попытка заработать хоть как-то
-      * Новый альбом Banks маскирующийся под Lorn
-      * Chase and Status – джангловая любовь Саши
-      * Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим
-      * Новый гастрофест в Минске
-      * Меломаны - место застрявших во времени хипстеров
-      * Куда сгонять в Минске?
-    </itunes:summary>
+    <description><![CDATA[<ul><li>Неостросюжетная история Саши о потерянном телефоне</li><li>Дедушки злостные воришки шеринговых велосипедов</li><li>Будет почти без спойлеров – новый сезон Stranger Things</li><li>3 попытка поговорить о Черном Зеркале</li><li>Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками</li><li>Голуби и безумные кашевары - угадайте что это</li><li>Хитрая подписка 65daysofstatic - попытка заработать хоть как-то</li><li>Новый альбом Banks маскирующийся под Lorn</li><li>Chase and Status – джангловая любовь Саши</li><li>Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим</li><li>Новый гастрофест в Минске</li><li>Меломаны - место застрявших во времени хипстеров</li><li>Куда сгонять в Минске?</li></ul>]]></description>
+    <itunes:summary><![CDATA[<ul><li>Неостросюжетная история Саши о потерянном телефоне</li><li>Дедушки злостные воришки шеринговых велосипедов</li><li>Будет почти без спойлеров – новый сезон Stranger Things</li><li>3 попытка поговорить о Черном Зеркале</li><li>Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками</li><li>Голуби и безумные кашевары - угадайте что это</li><li>Хитрая подписка 65daysofstatic - попытка заработать хоть как-то</li><li>Новый альбом Banks маскирующийся под Lorn</li><li>Chase and Status – джангловая любовь Саши</li><li>Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим</li><li>Новый гастрофест в Минске</li><li>Меломаны - место застрявших во времени хипстеров</li><li>Куда сгонять в Минске?</li></ul>]]></itunes:summary>
     <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/Artboard+1+square+copy.png" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+009.mp3" length="154087420" type="audio/mpeg"/>
     <pubDate>Mon, 15 Jul 2019 06:00:00 GMT</pubDate>
     <itunes:duration>01:47:00</itunes:duration>
     <itunes:order>9</itunes:order>
+    <itunes:episode>009</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>ea2l3ktj2lkfmsldkjf-6e76-1f</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 010</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>010</itunes:subtitle>
-    <description>
-      * Машинное обучение просочилось в наши дома!
-      * Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?
-      * Кингзман - современная замена бондиане?
-      * Сексизм наступает! Все новые трейлеры с женскими персонажами
-      * Кто вернет карьеру Кевину Спейси?
-      * Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа
-      * Мистер Робот – психоз растет
-      * У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии
-      * Four Tet - Dreamer новый сингл, как трек для Leyden
-      * Tycho - Weather, легкий летний привет от американского продюсера
-      * Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея
-      * Куда сходить на этой неделе в Минске?
-    </description>
-    <itunes:summary>
-      * Машинное обучение просочилось в наши дома!
-      * Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?
-      * Кингзман - современная замена бондиане?
-      * Сексизм наступает! Все новые трейлеры с женскими персонажами
-      * Кто вернет карьеру Кевину Спейси?
-      * Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа
-      * Мистер Робот – психоз растет
-      * У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии
-      * Four Tet - Dreamer новый сингл, как трек для Leyden
-      * Tycho - Weather, легкий летний привет от американского продюсера
-      * Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея
-      * Куда сходить на этой неделе в Минске?
-    </itunes:summary>
+    <description><![CDATA[<ul>
+        <li>Машинное обучение просочилось в наши дома!</li>
+        <li>Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?</li>
+        <li>Кингзман - современная замена бондиане?</li>
+        <li>Сексизм наступает! Все новые трейлеры с женскими персонажами</li>
+        <li>Кто вернет карьеру Кевину Спейси?</li>
+        <li>Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа</li>
+        <li>Мистер Робот – психоз растет</li>
+        <li>У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии</li>
+        <li>Four Tet - Dreamer новый сингл, как трек для Leyden</li>
+        <li>Tycho - Weather, легкий летний привет от американского продюсера</li>
+        <li>Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея</li>
+        <li>Куда сходить на этой неделе в Минске?</li>
+      </ul>]]></description>
+    <itunes:summary><![CDATA[<ul>
+        <li>Машинное обучение просочилось в наши дома!</li>
+        <li>Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?</li>
+        <li>Кингзман - современная замена бондиане?</li>
+        <li>Сексизм наступает! Все новые трейлеры с женскими персонажами</li>
+        <li>Кто вернет карьеру Кевину Спейси?</li>
+        <li>Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа</li>
+        <li>Мистер Робот – психоз растет</li>
+        <li>У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии</li>
+        <li>Four Tet - Dreamer новый сингл, как трек для Leyden</li>
+        <li>Tycho - Weather, легкий летний привет от американского продюсера</li>
+        <li>Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея</li>
+        <li>Куда сходить на этой неделе в Минске?</li>
+      </ul>]]></itunes:summary>
     <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+010.png" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+010.mp3" length="129793297" type="audio/mpeg"/>
     <pubDate>Mon, 22 Jul 2019 10:00:00 GMT</pubDate>
     <itunes:duration>01:30:08</itunes:duration>
     <itunes:order>10</itunes:order>
+    <itunes:episode>010</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>yes</itunes:explicit>
   </item>
 
   <item>
     <guid>ealkjshdqo2h3flskdf-6e76-1f</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 011</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>011</itunes:subtitle>
-    <description>
-      • Травмы детства и трупный глаз Саши
-      • От чего Вадиму нужно бежать? Конечно от армии
-      • В Минск приходит еще один байкшеринг, на этот раз с отечественными велами
-      • Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск
-      • Материнский альбом Shuma
-      • Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука
-      • Кларк и его мрачная меланхолия
-      • Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше
-      • Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!
-      • Куда сходить в Минске на этой неделе?
-    </description>
-    <itunes:summary>
-      • Травмы детства и трупный глаз Саши
-      • От чего Вадиму нужно бежать? Конечно от армии
-      • В Минск приходит еще один байкшеринг, на этот раз с отечественными велами
-      • Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск
-      • Материнский альбом Shuma
-      • Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука
-      • Кларк и его мрачная меланхолия
-      • Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше
-      • Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!
-      • Куда сходить в Минске на этой неделе?
-    </itunes:summary>
+    <description><![CDATA[<ul>
+        <li>Травмы детства и трупный глаз Саши</li>
+        <li>От чего Вадиму нужно бежать? Конечно от армии</li>
+        <li>В Минск приходит еще один байкшеринг, на этот раз с отечественными велами</li>
+        <li>Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск</li>
+        <li>Материнский альбом Shuma</li>
+        <li>Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука</li>
+        <li>Кларк и его мрачная меланхолия</li>
+        <li>Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше</li>
+        <li>Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!</li>
+        <li>Куда сходить в Минске на этой неделе?</li>
+      </ul>]]></description>
+    <itunes:summary><![CDATA[<ul>
+        <li>Травмы детства и трупный глаз Саши</li>
+        <li>От чего Вадиму нужно бежать? Конечно от армии</li>
+        <li>В Минск приходит еще один байкшеринг, на этот раз с отечественными велами</li>
+        <li>Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск</li>
+        <li>Материнский альбом Shuma</li>
+        <li>Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука</li>
+        <li>Кларк и его мрачная меланхолия</li>
+        <li>Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше</li>
+        <li>Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!</li>
+        <li>Куда сходить в Минске на этой неделе?</li>
+      </ul>]]></itunes:summary>
     <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+011.png" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+011.mp3" length="190470714" type="audio/mpeg"/>
     <pubDate>Mon, 29 Jul 2019 10:00:00 GMT</pubDate>
     <itunes:duration>01:39:12</itunes:duration>
     <itunes:order>11</itunes:order>
+    <itunes:episode>011</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>yes</itunes:explicit>
   </item>
 
   <item>
     <guid>330fe3de0486b4e1bcc97e883b17f978-21</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</title>
     <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
     <itunes:subtitle>012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</itunes:subtitle>
-    <description>
-      Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!
+    <description><![CDATA[<p>Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!</p>
 
-      Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:
-      * что это вообще такое за исследование, которым занимается Лев
-      * могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?
-      * татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?
-      * 23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов
-      * если растения с ГМО содержат гены, может ли у меня внутри расти чечевица
-      * зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?
-      * генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?
-      * в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках
-      * и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!
-
-      Ссылки из выпуска:
-      * 23andme.com - тот самый ДНК тест
-      * https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!
-      * https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций
-
-      В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.
+      <p>Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:</p>
+      <ul>
+      <li>что это вообще такое за исследование, которым занимается Лев<li>
+      <li>могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?</li>
+      <li>татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?</li>
+      <li>23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов</li>
+      <li>если растения с ГМО содержат гены, может ли у меня внутри расти чечевица</li>
+      <li>зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?</li>
+      <li>генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?</li>
+      <li>в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках</li>
+      <li>и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!</li>
+      </ul>
+      <p>Ссылки из выпуска:</p>
+      <ul>
+      <li>23andme.com - тот самый ДНК тест</li>
+      <li>https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!</li>
+      <li>https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций</li>
+      </ul>
+      <p>В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.</p>]]>
     </description>
-    <itunes:summary>
-      Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!
+    <itunes:summary><![CDATA[<p>Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!</p>
 
-      Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:
-      * что это вообще такое за исследование, которым занимается Лев
-      * могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?
-      * татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?
-      * 23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов
-      * если растения с ГМО содержат гены, может ли у меня внутри расти чечевица
-      * зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?
-      * генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?
-      * в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках
-      * и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!
-
-      Ссылки из выпуска:
-      * 23andme.com - тот самый ДНК тест
-      * https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!
-      * https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему определения ДНК
-
-      В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.
+      <p>Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:</p>
+      <ul>
+      <li>что это вообще такое за исследование, которым занимается Лев<li>
+      <li>могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?</li>
+      <li>татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?</li>
+      <li>23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов</li>
+      <li>если растения с ГМО содержат гены, может ли у меня внутри расти чечевица</li>
+      <li>зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?</li>
+      <li>генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?</li>
+      <li>в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках</li>
+      <li>и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!</li>
+      </ul>
+      <p>Ссылки из выпуска:</p>
+      <ul>
+      <li>23andme.com - тот самый ДНК тест</li>
+      <li>https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!</li>
+      <li>https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций</li>
+      </ul>
+      <p>В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.</p>]]>
     </itunes:summary>
     <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+012.png" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+012.mp3" length="349760782" type="audio/mpeg"/>
     <pubDate>Mon, 05 Aug 2019 10:00:00 GMT</pubDate>
     <itunes:duration>02:25:44</itunes:duration>
     <itunes:order>12</itunes:order>
+    <itunes:episode>012</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>no</itunes:explicit>
   </item>
 
   <item>
     <guid>7381f79573e034296a8e6e6be12dc953-11</guid>
+    <itunes:season>1</itunes:season>
     <title>ПОДВАЛ.ТРЁП – 013 (The Boys, Рок за бобров, RSConf, Wizzair)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>013 (The Boys, Рок за бобров, RSConf, Wizzair)</itunes:subtitle>
-    <description>
-      Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - https://linktr.ee/podval.sessions
-
-      В проклятом, но классическом выпуске:
-       ⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019
-       ⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?
-       ⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?
-       ⁃ WizzAir уже почти виднеется в Минском небе
-       ⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet
-
-      Немножко полезных ссылок:
-      Трейлер The Boys - https://www.youtube.com/watch?v=tcrNsIaQkb4
-      Сервис для ведения дневничка просмотра кино - https://letterboxd.com/ (плюс прилаги для iOS, Android), наши аккаунты:
-       • https://letterboxd.com/sea5calf/ - Вадим
-       • https://letterboxd.com/xejogear/ - Саша
-       • https://letterboxd.com/arty9000/ - Артем
-      Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/
-      Трейлер The Joker - https://youtu.be/t433PEQGErc
-
-      Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)
-    </description>
+    <description><![CDATA[<p>Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - <a href="https://linktr.ee/podval.sessions">linktr.ee/podval.sessions</a></p><p>В проклятом, но классическом выпуске:</p>
+       <ul><li>⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019</li><li>⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?</li><li>⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?</li><li>⁃ WizzAir уже почти виднеется в Минском небе</li><li>⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet</li></ul><br /><p>Немножко полезных ссылок:</p><p><a href="https://www.youtube.com/watch?v=tcrNsIaQkb4">Трейлер The Boys</a></p><p>Сервис для ведения дневничка просмотра кино - <a href="https://letterboxd.com/">letterboxd</a> (плюс прилаги для iOS, Android), наши аккаунты:</p><ul><li><a href="https://letterboxd.com/sea5calf/">letterboxd.com/sea5calf</a> - Вадим</li><li><a href="https://letterboxd.com/xejogear/">letterboxd.com/xejogear</a> - Саша</li><li><a href="https://letterboxd.com/arty9000/">letterboxd.com/arty9000</a> - Артем</li></ul><p>Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/</p><p><a href="https://youtu.be/t433PEQGErc">Трейлер The Joker</a></p><p>Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)</p>]]></description>
     <itunes:summary>
-      Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - https://linktr.ee/podval.sessions
-
-      В проклятом, но классическом выпуске:
-       ⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019
-       ⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?
-       ⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?
-       ⁃ WizzAir уже почти виднеется в Минском небе
-       ⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet
-
-      Немножко полезных ссылок:
-      Трейлер The Boys - https://www.youtube.com/watch?v=tcrNsIaQkb4
-      Сервис для ведения дневничка просмотра кино - https://letterboxd.com/ (плюс прилаги для iOS, Android), наши аккаунты:
-       • https://letterboxd.com/sea5calf/ - Вадим
-       • https://letterboxd.com/xejogear/ - Саша
-       • https://letterboxd.com/arty9000/ - Артем
-      Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/
-      Трейлер The Joker - https://youtu.be/t433PEQGErc
-
-      Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)
+      <![CDATA[<p>Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - <a href="https://linktr.ee/podval.sessions">linktr.ee/podval.sessions</a></p><p>В проклятом, но классическом выпуске:</p>
+       <ul><li>⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019</li><li>⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?</li><li>⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?</li><li>⁃ WizzAir уже почти виднеется в Минском небе</li><li>⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet</li></ul><br /><p>Немножко полезных ссылок:</p><p><a href="https://www.youtube.com/watch?v=tcrNsIaQkb4">Трейлер The Boys</a></p><p>Сервис для ведения дневничка просмотра кино - <a href="https://letterboxd.com/">letterboxd</a> (плюс прилаги для iOS, Android), наши аккаунты:</p><ul><li><a href="https://letterboxd.com/sea5calf/">letterboxd.com/sea5calf</a> - Вадим</li><li><a href="https://letterboxd.com/xejogear/">letterboxd.com/xejogear</a> - Саша</li><li><a href="https://letterboxd.com/arty9000/">letterboxd.com/arty9000</a> - Артем</li></ul><p>Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/</p><p><a href="https://youtu.be/t433PEQGErc">Трейлер The Joker</a></p><p>Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)</p>]]>
     </itunes:summary>
     <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+013.png" />
     <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+013.mp3" length="178177297" type="audio/mpeg"/>
     <pubDate>Mon, 12 Aug 2019 10:00:00 GMT</pubDate>
     <itunes:duration>02:03:44</itunes:duration>
     <itunes:order>13</itunes:order>
+    <itunes:episode>013</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
     <itunes:explicit>yes</itunes:explicit>
   </item>
 
