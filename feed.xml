@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
   <title>ПОДВАЛ.ТРЁП</title>
   <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
@@ -36,6 +36,9 @@
   <item>
     <guid>1</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 001</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>001: Начало</itunes:subtitle>
@@ -95,6 +98,9 @@
   <item>
     <guid>002</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 002</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>002</itunes:subtitle>
@@ -130,6 +136,9 @@
   <item>
     <guid>003</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 003 (гость Awlnight)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>003 (гость Awlnight)</itunes:subtitle>
@@ -169,6 +178,9 @@
   <item>
     <guid>004</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 004</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>004</itunes:subtitle>
@@ -209,6 +221,9 @@
   <item>
     <guid>005</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 005 (гость Dee Tree)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>005 (гость Dee Tree)</itunes:subtitle>
@@ -249,6 +264,9 @@
   <item>
     <guid>006</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 006</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>006</itunes:subtitle>
@@ -290,6 +308,9 @@
   <item>
     <guid>eacda271676e67757cb9866804b16e76-15</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 007</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>007</itunes:subtitle>
@@ -333,6 +354,9 @@
   <item>
     <guid>eacda271676e67757clhldhfjskd04b16e76-15</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 008 (гость Вулица Ежа)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>008 (гость Вулица Ежа)</itunes:subtitle>
@@ -376,6 +400,9 @@
   <item>
     <guid>eacda27lk12jl3257757clhldhfjskd04b16e76-1f</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 009</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>009</itunes:subtitle>
@@ -395,6 +422,9 @@
   <item>
     <guid>ea2l3ktj2lkfmsldkjf-6e76-1f</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 010</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>010</itunes:subtitle>
@@ -440,6 +470,9 @@
   <item>
     <guid>ealkjshdqo2h3flskdf-6e76-1f</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 011</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>011</itunes:subtitle>
@@ -481,6 +514,9 @@
   <item>
     <guid>330fe3de0486b4e1bcc97e883b17f978-21</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</title>
     <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
     <itunes:subtitle>012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</itunes:subtitle>
@@ -542,6 +578,9 @@
   <item>
     <guid>7381f79573e034296a8e6e6be12dc953-11</guid>
     <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <title>ПОДВАЛ.ТРЁП – 013 (The Boys, Рок за бобров, RSConf, Wizzair)</title>
     <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
     <itunes:subtitle>013 (The Boys, Рок за бобров, RSConf, Wizzair)</itunes:subtitle>
