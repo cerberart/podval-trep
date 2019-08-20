@@ -625,5 +625,49 @@
     <itunes:explicit>yes</itunes:explicit>
   </item>
 
+  <item>
+    <guid isPermaLink="false">8b38871a2889c8e3a1c440996722c3f9-9</guid>
+    <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
+    <title>ПОДВАЛ.ТРЁП – 014 (Однажды в … Голливуде, костюм для удовлетворения сексуальных потребностей, штраф за пьяную езду на электросамокате)</title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>014 (Однажды в … Голливуде, костюм для удовлетворения сексуальных потребностей, штраф за пьяную езду на электросамокате)</itunes:subtitle>
+    <description><![CDATA[<h1 id="podcast014">ПОДКАСТ 014</h1>
+      <p>Ожидание нового эпизода подкаста повышает удовольствие, полученное от него (с) - Эйнштейн</p>
+      <p>Вот мы и решили чуть припоздать с нашим 14 выпуском, чтобы вам было нервозней и интересней его ждать. В этом выпуске Артем и Вадим обсуждают Нину Тарантину и почти ничего больше:</p>
+      <ul>
+      <li>Как мы смотрели фильмы в детстве и как впервые наткнулись на творчество Квентина Тарантино?</li>
+      <li>Однажды в … Голливуде - обсуждаем сюжетный твист, аудио- и видео- составляющие, стилистику режиссера, и рассыпаем немножко интересных фактов</li>
+      </ul>
+      <p>Ну и в дополнение пара интересных ссылок:</p>
+      <ul>
+      <li><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/">https://letterboxd.com/film/once-upon-a-time-in-hollywood/</a>  - страничка фильма в Letterboxd</li>
+      <li><a href="https://youtu.be/ix-ym3c736o">“It felt pretty good!" Quentin Tarantino on ‘appearing’ in The Avengers, Team America and Shrek. - YouTube</a> Интервью квентина BBC о влиянии своих фильмов на поп-культуру</li>
+      <li><a href="https://youtu.be/4JpDQT7dMZ4">Тарантино высмеивает боевики - YouTube</a> - Хороший разбор деталей в Бесславных Ублюдках от канала ЧБУ</li>
+      <li><a href="youtube.com/watch?v=8Dnpw-w2Z_g">The Crown Season 3</a> - Трейлер нового сезона The Crown от Netflix</li>
+      <li><a href="https://www.amediateka.ru/watch/series_21501_ejforiya">Эйфория сериал смотреть онлайн</a> - Сериал Euphoria на сервисе Amediateka - рекомендация от Вадима</li>
+      <li><a href="https://knife.media/ripple/">https://knife.media/ripple/</a> Костюм для удовлетворения сексуальных потребностей, призванный помочь людям с ограниченными возможностями</li>
+      </ul>
+      <p>А напоследок - небольшие кино-рекомендации от Артема и Вадима на следующую неделю в Минске:</p>
+      <ul>
+      <li><a href="https://afisha.tut.by/film/pod-silver-leyk/">Детектив Под Сильвер-Лэйк</a></li>
+      <li><a href="https://afisha.tut.by/film/smert-i-zhizn-dzhona-f-donovana/">Драма Смерть и жизнь Джона Ф. Донована</a></li>
+      </ul>]]></description>
+    <itunes:summary>
+      Ожидание нового эпизода подкаста повышает удовольствие, полученное от него (с) - Эйнштейн
+    </itunes:summary>
+    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+014.png" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+014.mp3" length="145873650" type="audio/mpeg"/>
+    <pubDate>Mon, 20 Aug 2019 10:00:00 GMT</pubDate>
+    <itunes:duration>01:41:18</itunes:duration>
+    <itunes:order>14</itunes:order>
+    <itunes:episode>014</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
