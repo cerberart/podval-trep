@@ -669,5 +669,53 @@
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+  <item>
+    <guid isPermaLink="false">885f271a0e23ec3933360c6791a78aec-11</guid>
+    <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
+    <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 015 (Vulitsa Brazil)</title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>015 (Vulitsa Brazil)</itunes:subtitle>
+    <description><![CDATA[<p>Podval 015</p>
+      <p>Сегодня у нас в гостях Мила Котка - родная Мама арт-стрит-паблик-урбан-кино-фэшн-эду фестиваля Vulitsa Brazil!</p>
+      <p>Мы активно расспросим Милу в первом BY-подкасте:</p>
+      <ul>
+       <li>О том, откуда взялся фестиваль и как у него появились мама и папа</li>
+       <li>Какие главные сложности и метаморфозы пережил фестиваль</li>
+       <li>Как складывалась идентичность фестиваля, синонимичен ли он развитию улицы Октябрьской, как складывался акцент на уличном искусстве разного калибра</li>
+       <li>О Принципе активного “делания” для всех участников семьи фестиваля</li>
+       <li>Зададим огненные вопросы от зрителей и подписчиков, и обсудим огненные скандалы, связанные со стрит-артом в Минске</li>
+       <li>Какие идеалы и мечты преследует Мила и Vulitsa Brazil Família в будущем, о перспективах проведения Rua Belarus в Бразилии</li>
+      </ul>
+      <p>Подробнее узнать о белорусско-бразильском фестивале можно по ссылкам:</p>
+      <ul>
+       <li>
+        <a href="http://www.vulica-brasil.by/">Оф сайт фестиваля: Программа, Художники и много общей информации</a>
+       </li>
+       <li>
+        <a href="https://afisha.tut.by/news/places/558463.html">Фото-репортаж о муралах фестиваля 2017 года от Tut.by</a>
+       </li>
+       <li>
+        <a href="https://minsknews.by/gid-po-vulica-brazil-v-minske-gde-iskat-graffiti-belorusskih-i-brazilskih-hudozhnikov/">Еще один небольшой репортаж о более ранних картинах-граффити на minsknews.by</a>
+       </li>
+      </ul>
+      <p>P.S. Вадиму заклеят рот, не пропустите</p>]]>
+    </description>
+    <itunes:summary>
+      Сегодня у нас в гостях Мила Котка - родная Мама арт-стрит-паблик-урбан-кино-фэшн-эду фестиваля Vulitsa Brazil!
+    </itunes:summary>
+    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+015.jpg" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+015.mp3" length="184129454" type="audio/mpeg"/>
+    <pubDate>Mon, 26 Aug 2019 02:00:00 GMT</pubDate>
+    <itunes:duration>02:07:52</itunes:duration>
+    <itunes:order>15</itunes:order>
+    <itunes:episode>015</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
