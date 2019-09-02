@@ -717,5 +717,62 @@
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+  <item>
+    <guid isPermaLink="false">885f271a0e23ec3933360c6791a78aec-11</guid>
+    <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
+    <title>ПОДВАЛ.ТРЁП – 016 (Неделя Tool)</title>
+    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+    <itunes:subtitle>016 (Неделя Tool)</itunes:subtitle>
+    <description>
+      <![CDATA[
+        <p>Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!</p>
+        <p>В этот раз мы поговорим сразу на очень много тем:</p>
+        <ul>
+          <li>1 сентября и наше к нему отношение (с историями, конечно!)</li>
+          <li>Новый альбом Tool - Fear Innoculum, и его месте в наших сердечках</li>
+          <li>Главный концерт лета в Минске - Макс Корж на стадионе Динамо</li>
+          <li>Другие музыкальные новинки: альбомы СБПЧ, Lana del Rey, EP от Four Tet - все уже доступно в ваших любимых стриминг-сервисах</li>
+          <li>Вадим расскажет об удобстве eSim в честь начала его поддержки A1 в Беларуси</li>
+          <li>Затронем новости из-за бугра - Youtube с их новыми политиками против Hate Speech</li>
+          <li>Самый главный сок номера - возможно, на наших было совершено первое в истории космическое преступление! Пиратство? Войны за ресурсы? Все намного круче, включайте погромче</li>
+          <li>Не забудем и кино - новые трейлеры Irishman, Breaking Bad, новости из Венеции</li>
+        </ul>
+
+        <p>А напоследок держите ссылочки, по которым можно почитать больше о темах выпуска:</p>
+        <ul>
+          <li>Tool - <a href="http://smarturl.it/TOOLFIa">Fear Innoculum</a></li>
+          <li>Фронтмен Tool <a href="https://youtu.be/9-w-LFBw8Co">в гостях у Joe Roegan</a></li>
+          <li><a href="https://afisha.tut.by/news/anews/650703.html">Фоторепортаж Tut.by</a> с того самого концерта Макса Коржа</li>
+          <li><a href="https://42.tut.by/649112">Новость о запуске eSim в Беларуси</a></li>
+          <li><a href="https://www.nytimes.com/2019/08/23/us/nasa-astronaut-anne-mcclain.html"> Статья, описывающая обвинения</a> в первом в истории преступлении, совершенном из космоса</li>
+        </ul>
+
+        <p>Новые трейлеры:</p>
+        <ul>
+          <li><a href="https://youtu.be/h_2RjQwQGV0">Irishman</a> - фильм Netflix от Мартина Скорсезе</li>
+          <li><a href="https://www.youtube.com/watch?v=lZKqMVPlDg8">El Camino</a> - новый фильм по Breaking Bad</li>
+          <li><a href=" https://youtu.be/-y1HhAlAOTs">Marriage Story</a> - фильм-участник Венецианского кинофестиваля от Ноа Баумбаха с Адамом Драйвером и Скарлетт Йоханссон</li>
+          <li><a href="https://youtu.be/5btyBWXgl44">Джокер</a> - финальный трейлер нового фильма с Хоакином Фениксом </li>
+        </ul>
+        <p>В этом подкасте для вас грелись на солнышке Саша и Вадим, ребята ничем не примечательные, но общительные</p>
+      ]]>
+    </description>
+    <itunes:summary>
+      Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!
+    </itunes:summary>
+    <itunes:image href="" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+015.mp3" length="184129454" type="audio/mpeg"/>
+    <pubDate>Mon, 02 Sep 2019 02:00:00 GMT</pubDate>
+    <itunes:duration>02:07:52</itunes:duration>
+    <itunes:order>16</itunes:order>
+    <itunes:episode>016</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
