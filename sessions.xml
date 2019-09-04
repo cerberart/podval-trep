@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 <channel>
   <title>PODVAL</title>
   <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
@@ -20,6 +20,7 @@
   <item>
     <guid>38aee97a5f91717fa4df662eb3c83902-12</guid>
     <title>PODVAL.001 - Anatoly.möd</title>
+    <dc:creator>PODVAL Sessions</dc:creator>
     <itunes:author>PODVAL</itunes:author>
     <itunes:subtitle>001</itunes:subtitle>
     <description>
