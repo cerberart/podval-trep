@@ -718,7 +718,7 @@
   </item>
 
   <item>
-    <guid isPermaLink="false">885f271a0e23ec3933360c6791a78aec-11</guid>
+    <guid isPermaLink="false">a1d23f7ec3956d423a81729403edec3c-10</guid>
     <itunes:season>1</itunes:season>
     <category>podcast</category>
     <link>https://linktr.ee/podval.sessions</link>
@@ -763,10 +763,10 @@
     <itunes:summary>
       Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!
     </itunes:summary>
-    <itunes:image href="" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+015.mp3" length="184129454" type="audio/mpeg"/>
+    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+016.jpg" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+016.mp3" length="155582424" type="audio/mpeg"/>
     <pubDate>Mon, 02 Sep 2019 02:00:00 GMT</pubDate>
-    <itunes:duration>02:07:52</itunes:duration>
+    <itunes:duration>01:48:02</itunes:duration>
     <itunes:order>16</itunes:order>
     <itunes:episode>016</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
