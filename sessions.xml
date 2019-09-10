@@ -208,5 +208,24 @@
     <itunes:explicit>yes</itunes:explicit>
   </item>
 
+  <item>
+    <guid>67e9d2c34d1aa99ea703870ba296168c-6</guid>
+    <title>PODVAL.COZY.010 - Myownchoir</title>
+    <itunes:author>PODVAL</itunes:author>
+    <itunes:subtitle>COZY.010</itunes:subtitle>
+    <description>
+      As autumn draws upon us, it is time to say goodbye to summer days and Myownchoir will help us. His warm and sunny beats straight from the booth of ferris wheel keep us on the wave. Next half an hour you will listen to gorgeous mix of hip-hop and house.
+    </description>
+    <itunes:summary>
+      As autumn draws upon us, it is time to say goodbye to summer days and Myownchoir will help us. His warm and sunny beats straight from the booth of ferris wheel keep us on the wave. Next half an hour you will listen to gorgeous mix of hip-hop and house.
+    </itunes:summary>
+    <itunes:image href="https://podval-sessions.s3.eu-central-1.amazonaws.com/images/010mixcloud.jpg" />
+    <enclosure url="https://podval-sessions.s3.eu-central-1.amazonaws.com/PODVAL.COZY.010+-+Myownchoir.mp3" length="90724240" type="audio/mpeg"/>
+    <pubDate>Tue, 10 Sep 2019 10:00:00 GMT</pubDate>
+    <itunes:duration>00:37:46</itunes:duration>
+    <itunes:order>11</itunes:order>
+    <itunes:explicit>yes</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
