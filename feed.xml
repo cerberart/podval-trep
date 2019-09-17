@@ -774,5 +774,42 @@
     <itunes:explicit>no</itunes:explicit>
   </item>
 
+  <item>
+    <guid isPermaLink="false">3804362dcf1e2426be4cf0da907f3bec-8</guid>
+    <itunes:season>1</itunes:season>
+    <category>podcast</category>
+    <link>https://linktr.ee/podval.sessions</link>
+    <dc:creator>PODVAL Sessions</dc:creator>
+    <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 017</title>
+    <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
+    <itunes:subtitle>017</itunes:subtitle>
+    <description>
+      <![CDATA[
+        <p>Сегодня у нас в гостях Евгения, менеджер ивентов, а в прошлом - организатор концертов в Минске! На летней крыше вместе с ней мы обсудим самые музыкальные темы:</p>
+        <ul>
+          <li>Для начала опустимся в колодец ностальгии и вспомним наши первые посещения по-настоящему больших концертов</li>
+          <li>Узнаем у Жени о том, как организовать концерт, если у тебя есть своя молодая группа?</li>
+          <li>Насколько сложно в Минске договориться с клубом о проведении концерта и сколько это стоит?</li>
+          <li>Ренессанс национальной музыки: есть кто?</li>
+          <li>Почему в Беларусь не привезут Childish Gambino или Billy Eilish в ближайшие 15 лет? Какие у таких музыкантов райдеры?</li>
+          <li>Как рекламировать концерты в Минске для тех живых, кому ещё меньше 40?</li>
+          <li>Творческие люди - хорошо или плохо, как с ними жить?</li>
+          <li>Перспективные молодые группы Беларуси - кого мы видим лидерами местной сцены в ближайшие годы?</li>
+        </ul>
+      ]]>
+    </description>
+    <itunes:summary>
+      ПОДВАЛ.ТРЁП.017 вместе с гостем Женей из продюсерского центра.
+    </itunes:summary>
+    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+017.png" />
+    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+017.mp3" length="136705297" type="audio/mpeg"/>
+    <pubDate>Mon, 16 Sep 2019 02:00:00 GMT</pubDate>
+    <itunes:duration>01:34:56</itunes:duration>
+    <itunes:order>17</itunes:order>
+    <itunes:episode>017</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <itunes:explicit>no</itunes:explicit>
+  </item>
 </channel>
 </rss>
