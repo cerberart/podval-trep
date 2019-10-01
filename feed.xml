@@ -1,815 +1,852 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
-<channel>
-  <title>ПОДВАЛ.ТРЁП</title>
-  <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
-  <language>ru-ru</language>
-  <description>
-    ПОДВАЛ.ТРЁП - это расслабленный подкаст для друзей от Minsk Podval Sessions.
-    Еженедельные разговоры о свежей (и не очень) музыке, сериалах/фильмах, технологиях и новостях Минска, приглашенные гости, о которых вы никогда не слышали!
-    Каждый понедельник ведущие Саша, Артем и Вадим с помощью призрачного Толи устроят ASMR-резню в твоих наушниках о том, жив ли Anime Dream Drum'n'Trans, кому нужны электросамовары и кого в Stranger Things нужно любить больше.
-  </description>
-  <copyright>PODVAL sessions</copyright>
-  <itunes:subtitle>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело.</itunes:subtitle>
-  <itunes:author>PODVAL sessions</itunes:author>
-  <itunes:summary>
-    ПОДВАЛ.ТРЁП - это расслабленный подкаст для друзей от Minsk Podval Sessions.
-    Еженедельные разговоры о свежей (и не очень) музыке, сериалах/фильмах, технологиях и новостях Минска, приглашенные гости, о которых вы никогда не слышали!
-    Каждый понедельник ведущие Саша, Артем и Вадим с помощью призрачного Толи устроят ASMR-резню в твоих наушниках о том, жив ли Anime Dream Drum'n'Trans, кому нужны электросамовары и кого в Stranger Things нужно любить больше.
-  </itunes:summary>
-  <itunes:owner>
-    <itunes:name>PODVAL sessions</itunes:name>
-    <itunes:email>podval.sessions@gmail.com</itunes:email>
-  </itunes:owner>
-  <itunes:image href="https://cerberart.github.io/podval-trep/images/podcast-logo.jpg" />
-  <itunes:category text="Music"/>
-  <itunes:category text="Technology">
-    <itunes:category text="Gadgets" />
-    <itunes:category text="Podcasting" />
-  </itunes:category>
-  <itunes:category text="Society &amp; Culture">
-    <itunes:category text="Personal Journals" />
-    <itunes:category text="Places &amp; Travel" />
-  </itunes:category>
-  <itunes:explicit>no</itunes:explicit>
-
-  <item>
-    <guid isPermaLink="false">lakjs-asduh3odhiqlsdbka</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 001</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>001: Начало</itunes:subtitle>
+  <channel>
+    <title>ПОДВАЛ.ТРЁП</title>
+    <link>https://youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</link>
+    <language>ru-ru</language>
     <description>
-      * Сервис электросамокатов открылся и закрылся;
-      * Moby сходит с ума;
-      * Экспериментальщина от Son Lux или пародия на Тома Йорка;
-      * Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов;
-      * Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы?;
-      * Евровидение;
-      * Дробыш последняя надежда и не выглядящая на 16 лет артистка;
-      * Mono в Минск;
-      * Пост-рок в 2019 году???;
-      * Сексизм Иванович;
-      * Рубрика Что это за х***я?;
-      * Концерт Mustelide и вторая вечеринка Ballantines;
-      * СОЮЗ новое забытое старое в навернутой обвертке;
-      * Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов;
-      * Royksopp все по скандинавски, главное не напороться на родственника;
-      * Рок за бобров завоевывает молодую аудиторию;
-      * Подвальные новости;
-
-      Видео версию можно посмотреть на youtube – https://youtu.be/A3ZAx5n1oOQ
+      ПОДВАЛ.ТРЁП - это расслабленный подкаст для друзей от Minsk Podval Sessions.
+      Еженедельные разговоры о свежей (и не очень) музыке, сериалах/фильмах, технологиях и новостях Минска, приглашенные гости, о которых вы никогда не слышали!
+      Каждый понедельник ведущие Саша, Артем и Вадим с помощью призрачного Толи устроят ASMR-резню в твоих наушниках о том, жив ли Anime Dream Drum'n'Trans, кому нужны электросамовары и кого в Stranger Things нужно любить больше.
     </description>
+    <copyright>PODVAL sessions</copyright>
+    <itunes:subtitle>ПОДВАЛ.ТРЁП –– еженедельные подкасты обо всем, что наболело.</itunes:subtitle>
+    <itunes:author>PODVAL sessions</itunes:author>
     <itunes:summary>
-      * Сервис электросамокатов открылся и закрылся;
-      * Moby сходит с ума;
-      * Экспериментальщина от Son Lux или пародия на Тома Йорка;
-      * Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов;
-      * Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы?;
-      * Евровидение;
-      * Дробыш последняя надежда и не выглядящая на 16 лет артистка;
-      * Mono в Минск;
-      * Пост-рок в 2019 году???;
-      * Сексизм Иванович;
-      * Рубрика Что это за х***я?;
-      * Концерт Mustelide и вторая вечеринка Ballantines;
-      * СОЮЗ новое забытое старое в навернутой обвертке;
-      * Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов;
-      * Royksopp все по скандинавски, главное не напороться на родственника;
-      * Рок за бобров завоевывает молодую аудиторию;
-      * Подвальные новости;
-
-      Видео версию можно посмотреть на youtube – https://youtu.be/A3ZAx5n1oOQ
+      ПОДВАЛ.ТРЁП - это расслабленный подкаст для друзей от Minsk Podval Sessions.
+      Еженедельные разговоры о свежей (и не очень) музыке, сериалах/фильмах, технологиях и новостях Минска, приглашенные гости, о которых вы никогда не слышали!
+      Каждый понедельник ведущие Саша, Артем и Вадим с помощью призрачного Толи устроят ASMR-резню в твоих наушниках о том, жив ли Anime Dream Drum'n'Trans, кому нужны электросамовары и кого в Stranger Things нужно любить больше.
     </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/001/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+001.mp3" length="153124570" type="audio/mpeg"/>
-    <pubDate>Sun, 19 May 2019 01:34:59 GMT</pubDate>
-    <itunes:duration>01:03:48</itunes:duration>
-    <itunes:order>0</itunes:order>
-    <itunes:episode>001</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:owner>
+      <itunes:name>PODVAL sessions</itunes:name>
+      <itunes:email>podval.sessions@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://cerberart.github.io/podval-trep/images/podcast-logo.jpg" />
+    <itunes:category text="Music"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Gadgets" />
+      <itunes:category text="Podcasting" />
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" />
+      <itunes:category text="Places &amp; Travel" />
+    </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-  </item>
 
-  <item>
-    <guid isPermaLink="false">aslkdjoi2h389d2owljldasnd</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 002</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>002</itunes:subtitle>
-    <description>
-      * Золотая эпоха боевиков;
-      * несерьезный подход к музыке;
-      * лоукосты в Беларуси;
-      * белорусский киллер;
-      * экскомьюникадо для Huawei и немного новейших трендов в интернете;
+    <item>
+      <guid isPermaLink="false">lakjs-asduh3odhiqlsdbka</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 001</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>001: Начало</itunes:subtitle>
+      <description>
+        * Сервис электросамокатов открылся и закрылся;
+        * Moby сходит с ума;
+        * Экспериментальщина от Son Lux или пародия на Тома Йорка;
+        * Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов;
+        * Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы?;
+        * Евровидение;
+        * Дробыш последняя надежда и не выглядящая на 16 лет артистка;
+        * Mono в Минск;
+        * Пост-рок в 2019 году???;
+        * Сексизм Иванович;
+        * Рубрика Что это за х***я?;
+        * Концерт Mustelide и вторая вечеринка Ballantines;
+        * СОЮЗ новое забытое старое в навернутой обвертке;
+        * Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов;
+        * Royksopp все по скандинавски, главное не напороться на родственника;
+        * Рок за бобров завоевывает молодую аудиторию;
+        * Подвальные новости;
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/En2cA4HRvbk
-    </description>
-    <itunes:summary>
-      * Золотая эпоха боевиков;
-      * несерьезный подход к музыке;
-      * лоукосты в Беларуси;
-      * белорусский киллер;
-      * экскомьюникадо для Huawei и немного новейших трендов в интернете;
+        Видео версию можно посмотреть на youtube – https://youtu.be/A3ZAx5n1oOQ
+      </description>
+      <itunes:summary>
+        * Сервис электросамокатов открылся и закрылся;
+        * Moby сходит с ума;
+        * Экспериментальщина от Son Lux или пародия на Тома Йорка;
+        * Ты вообще смотрел Суспирию и как в детстве расшаталась психика от фильмов ужасов;
+        * Дела музыкальные белорусские, есть ли у Тимы Белорусских плюсы?;
+        * Евровидение;
+        * Дробыш последняя надежда и не выглядящая на 16 лет артистка;
+        * Mono в Минск;
+        * Пост-рок в 2019 году???;
+        * Сексизм Иванович;
+        * Рубрика Что это за х***я?;
+        * Концерт Mustelide и вторая вечеринка Ballantines;
+        * СОЮЗ новое забытое старое в навернутой обвертке;
+        * Истинные премьеры мая - Финалы Мстителей (только в CAM RIP) и Игры престолов;
+        * Royksopp все по скандинавски, главное не напороться на родственника;
+        * Рок за бобров завоевывает молодую аудиторию;
+        * Подвальные новости;
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/En2cA4HRvbk
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/002/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+002.mp3" length="126777468" type="audio/mpeg"/>
-    <pubDate>Mon, 27 May 2019 10:34:59 GMT</pubDate>
-    <itunes:duration>00:52:49</itunes:duration>
-    <itunes:order>2</itunes:order>
-    <itunes:episode>002</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://youtu.be/A3ZAx5n1oOQ
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/001/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+001.mp3" length="153124570" type="audio/mpeg"/>
+      <pubDate>Sun, 19 May 2019 01:34:59 GMT</pubDate>
+      <itunes:duration>01:03:48</itunes:duration>
+      <itunes:order>0</itunes:order>
+      <itunes:episode>001</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">laksjdop3hofwlhrjgabklgiuw4h5</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 003 (гость Awlnight)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>003 (гость Awlnight)</itunes:subtitle>
-    <description>
-      * 200$ на билет незнакомому вкуснопахнущему мужчине;
-      * новая музыка в Минске - stealurmind (сайд проект Awlnight);
-      * ответишь за Эминема? или как умер Тупак?;
-      * как слушать Нирвану и не знать, что это Металлика;
-      * как слушать Linkin Park и не знать, что это фабрика звезд;
-      * мальчик пойдем со мной, покажу как рисую Терминатора. Реконструкция кинотеатра Победа;
-      * монохромный геймбой с динамо машиной PLAYDATE;
+    <item>
+      <guid isPermaLink="false">aslkdjoi2h389d2owljldasnd</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 002</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>002</itunes:subtitle>
+      <description>
+        * Золотая эпоха боевиков;
+        * несерьезный подход к музыке;
+        * лоукосты в Беларуси;
+        * белорусский киллер;
+        * экскомьюникадо для Huawei и немного новейших трендов в интернете;
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/XmuaDJdrLWY
-    </description>
-    <itunes:summary>
-      * 200$ на билет незнакомому вкуснопахнущему мужчине;
-      * новая музыка в Минске - stealurmind (сайд проект Awlnight);
-      * ответишь за Эминема? или как умер Тупак?;
-      * как слушать Нирвану и не знать, что это Металлика;
-      * как слушать Linkin Park и не знать, что это фабрика звезд;
-      * мальчик пойдем со мной, покажу как рисую Терминатора. Реконструкция кинотеатра Победа;
-      * монохромный геймбой с динамо машиной PLAYDATE;
+        Видео версию можно посмотреть на youtube – https://youtu.be/En2cA4HRvbk
+      </description>
+      <itunes:summary>
+        * Золотая эпоха боевиков;
+        * несерьезный подход к музыке;
+        * лоукосты в Беларуси;
+        * белорусский киллер;
+        * экскомьюникадо для Huawei и немного новейших трендов в интернете;
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/XmuaDJdrLWY
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/003/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+003.mp3" length="202239999" type="audio/mpeg"/>
-    <pubDate>Tue, 04 Jun 2019 10:34:59 GMT</pubDate>
-    <itunes:duration>01:24:16</itunes:duration>
-    <itunes:order>3</itunes:order>
-    <itunes:episode>003</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://youtu.be/En2cA4HRvbk
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/002/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+002.mp3" length="126777468" type="audio/mpeg"/>
+      <pubDate>Mon, 27 May 2019 10:34:59 GMT</pubDate>
+      <itunes:duration>00:52:49</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <itunes:episode>002</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">asdkjahow498hfq4wlgasdkf</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 004</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>004</itunes:subtitle>
-    <description>
-      * Наконец-то слышно кого-то, кроме Артема;
-      * Новая музыкальная площадка от тусовщика Старцева;
-      * Меньшинства – новый способ для раскрутки?;
-      * Заплати за вход, заплати за еду и покопайся в дерьме. Фестивали Еды;
-      * Много слов про игры;
-      * Игромания, но не журнал. Болезнь или аутсайдерство;
-      * Купи стойку за 999$, премиум продукты от Эпл (наконец-то темная IOS, привет 2019!)
+    <item>
+      <guid isPermaLink="false">laksjdop3hofwlhrjgabklgiuw4h5</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 003 (гость Awlnight)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>003 (гость Awlnight)</itunes:subtitle>
+      <description>
+        * 200$ на билет незнакомому вкуснопахнущему мужчине;
+        * новая музыка в Минске - stealurmind (сайд проект Awlnight);
+        * ответишь за Эминема? или как умер Тупак?;
+        * как слушать Нирвану и не знать, что это Металлика;
+        * как слушать Linkin Park и не знать, что это фабрика звезд;
+        * мальчик пойдем со мной, покажу как рисую Терминатора. Реконструкция кинотеатра Победа;
+        * монохромный геймбой с динамо машиной PLAYDATE;
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/04gnDhiSTi4
-    </description>
+        Видео версию можно посмотреть на youtube – https://youtu.be/XmuaDJdrLWY
+      </description>
+      <itunes:summary>
+        * 200$ на билет незнакомому вкуснопахнущему мужчине;
+        * новая музыка в Минске - stealurmind (сайд проект Awlnight);
+        * ответишь за Эминема? или как умер Тупак?;
+        * как слушать Нирвану и не знать, что это Металлика;
+        * как слушать Linkin Park и не знать, что это фабрика звезд;
+        * мальчик пойдем со мной, покажу как рисую Терминатора. Реконструкция кинотеатра Победа;
+        * монохромный геймбой с динамо машиной PLAYDATE;
 
-    <itunes:summary>
-      * Наконец-то слышно кого-то, кроме Артема;
-      * Новая музыкальная площадка от тусовщика Старцева;
-      * Меньшинства – новый способ для раскрутки?;
-      * Заплати за вход, заплати за еду и покопайся в дерьме. Фестивали Еды;
-      * Много слов про игры;
-      * Игромания, но не журнал. Болезнь или аутсайдерство;
-      * Купи стойку за 999$, премиум продукты от Эпл (наконец-то темная IOS, привет 2019!)
+        Видео версию можно посмотреть на youtube – https://youtu.be/XmuaDJdrLWY
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/003/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+003.mp3" length="202239999" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Jun 2019 10:34:59 GMT</pubDate>
+      <itunes:duration>01:24:16</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <itunes:episode>003</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/04gnDhiSTi4
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/004/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+004.mp3" length="165839933" type="audio/mpeg"/>
-    <pubDate>Mon, 10 Jun 2019 10:34:59 GMT</pubDate>
-    <itunes:duration>01:09:06</itunes:duration>
-    <itunes:order>4</itunes:order>
-    <itunes:episode>004</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+    <item>
+      <guid isPermaLink="false">asdkjahow498hfq4wlgasdkf</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 004</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>004</itunes:subtitle>
+      <description>
+        * Наконец-то слышно кого-то, кроме Артема;
+        * Новая музыкальная площадка от тусовщика Старцева;
+        * Меньшинства – новый способ для раскрутки?;
+        * Заплати за вход, заплати за еду и покопайся в дерьме. Фестивали Еды;
+        * Много слов про игры;
+        * Игромания, но не журнал. Болезнь или аутсайдерство;
+        * Купи стойку за 999$, премиум продукты от Эпл (наконец-то темная IOS, привет 2019!)
 
-  <item>
-    <guid isPermaLink="false">alksdhjfgoap9hglierhfas</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 005 (гость Dee Tree)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>005 (гость Dee Tree)</itunes:subtitle>
-    <description>
-      * Официально: взросление не то что вы думали;
-      * Солодуха предел всех мечтаний;
-      * Эффект зловещей долины;
-      * Новый альбом Dee Tree, привет All is 111;
-      * Мама и папа снова вместе, Mars Volta возвращаются;
-      * Джазовые фестивали - места, где бабушки клеют молодых;
-      * $150к за 18 часов студийных записей OK Computer;
-      * Долой жетоны/талоны и наличку. HI-TECH Минск;
+        Видео версию можно посмотреть на youtube – https://youtu.be/04gnDhiSTi4
+      </description>
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/Y7t7WwxwsjQ
-    </description>
-    <itunes:summary>
-      * Официально: взросление не то что вы думали;
-      * Солодуха предел всех мечтаний;
-      * Эффект зловещей долины;
-      * Новый альбом Dee Tree, привет All is 111;
-      * Мама и папа снова вместе, Mars Volta возвращаются;
-      * Джазовые фестивали - места, где бабушки клеют молодых;
-      * $150к за 18 часов студийных записей OK Computer; Долой жетоны/талоны и наличку. HI-TECH Минск;
+      <itunes:summary>
+        * Наконец-то слышно кого-то, кроме Артема;
+        * Новая музыкальная площадка от тусовщика Старцева;
+        * Меньшинства – новый способ для раскрутки?;
+        * Заплати за вход, заплати за еду и покопайся в дерьме. Фестивали Еды;
+        * Много слов про игры;
+        * Игромания, но не журнал. Болезнь или аутсайдерство;
+        * Купи стойку за 999$, премиум продукты от Эпл (наконец-то темная IOS, привет 2019!)
 
-      Видео версию можно посмотреть на youtube – https://youtu.be/Y7t7WwxwsjQ
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/005/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+005.mp3" length="149355970" type="audio/mpeg"/>
-    <pubDate>Mon, 17 Jun 2019 10:34:59 GMT</pubDate>
-    <itunes:duration>01:17:47</itunes:duration>
-    <itunes:order>5</itunes:order>
-    <itunes:episode>005</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://youtu.be/04gnDhiSTi4
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/004/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+004.mp3" length="165839933" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Jun 2019 10:34:59 GMT</pubDate>
+      <itunes:duration>01:09:06</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <itunes:episode>004</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">asldjhaopfih5g0oherlfh</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 006</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>006</itunes:subtitle>
-    <description>
-        * Как я (не)спас жизни;
-        * Гейские игры обьявляем открытыми!;
-        * Минск расцветает новыми шерингами;
-        * Рынок для хипстеров и IT боярин;
-        * Вам пакет новый или бу?;
-        * Музыкальный дайджест, к которому Вадим как всегда не подготовился;
-        * Саша и Вадя не посмотрели 5 сезон Черного зеркала, поэтому next time;
-        * Посоветуйте куда сходить;
+    <item>
+      <guid isPermaLink="false">alksdhjfgoap9hglierhfas</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 005 (гость Dee Tree)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>005 (гость Dee Tree)</itunes:subtitle>
+      <description>
+        * Официально: взросление не то что вы думали;
+        * Солодуха предел всех мечтаний;
+        * Эффект зловещей долины;
+        * Новый альбом Dee Tree, привет All is 111;
+        * Мама и папа снова вместе, Mars Volta возвращаются;
+        * Джазовые фестивали - места, где бабушки клеют молодых;
+        * $150к за 18 часов студийных записей OK Computer;
+        * Долой жетоны/талоны и наличку. HI-TECH Минск;
 
-        Видео версию можно посмотреть на youtube – https://youtu.be/5FhVc3gu3AU
-    </description>
-    <itunes:summary>
-        * Как я (не)спас жизни;
-        * Гейские игры обьявляем открытыми!;
-        * Минск расцветает новыми шерингами;
-        * Рынок для хипстеров и IT боярин;
-        * Вам пакет новый или бу?;
-        * Музыкальный дайджест, к которому Вадим как всегда не подготовился;
-        * Саша и Вадя не посмотрели 5 сезон Черного зеркала, поэтому next time;
-        * Посоветуйте куда сходить;
+        Видео версию можно посмотреть на youtube – https://youtu.be/Y7t7WwxwsjQ
+      </description>
+      <itunes:summary>
+        * Официально: взросление не то что вы думали;
+        * Солодуха предел всех мечтаний;
+        * Эффект зловещей долины;
+        * Новый альбом Dee Tree, привет All is 111;
+        * Мама и папа снова вместе, Mars Volta возвращаются;
+        * Джазовые фестивали - места, где бабушки клеют молодых;
+        * $150к за 18 часов студийных записей OK Computer; Долой жетоны/талоны и наличку. HI-TECH Минск;
 
-        Видео версию можно посмотреть на youtube – https://youtu.be/5FhVc3gu3AU
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+006.mp3" length="160399918" type="audio/mpeg"/>
-    <pubDate>Mon, 24 Jun 2019 10:34:59 GMT</pubDate>
-    <itunes:duration>01:23:32</itunes:duration>
-    <itunes:order>6</itunes:order>
-    <itunes:episode>006</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://youtu.be/Y7t7WwxwsjQ
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/005/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+005.mp3" length="149355970" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Jun 2019 10:34:59 GMT</pubDate>
+      <itunes:duration>01:17:47</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <itunes:episode>005</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">eacda271676e67757cb9866804b16e76-15</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 007</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>007</itunes:subtitle>
-    <description>
-      * Учись разговаривать на языке жестов;
-      * Типа позитивный выпуск и минимизация слов паразитов;
-      * Личные истории о детском алкоголизме;
-      * Как мама испытывала на мне пистолет для пробития дырок в ушах;
-      * Вадим и 50 баксов потраченных на Fifa;
-      * Осознанное питье или как в 21 веке любят на все вешать ярлыки;
-      * Гвоздь программы: новый альбом Тома Йорка Анима и одноименная короткометражка;
-      * Музыкальный дайджест: Etherwood, Комсомольск, Black Keys;
-      * Куда сходить на следующей неделе (по секрету – на следующей никуда);
+    <item>
+      <guid isPermaLink="false">asldjhaopfih5g0oherlfh</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 006</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>006</itunes:subtitle>
+      <description>
+          * Как я (не)спас жизни;
+          * Гейские игры обьявляем открытыми!;
+          * Минск расцветает новыми шерингами;
+          * Рынок для хипстеров и IT боярин;
+          * Вам пакет новый или бу?;
+          * Музыкальный дайджест, к которому Вадим как всегда не подготовился;
+          * Саша и Вадя не посмотрели 5 сезон Черного зеркала, поэтому next time;
+          * Посоветуйте куда сходить;
 
-      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=5tfzMhjy3ZU
-    </description>
-    <itunes:summary>
-      * Учись разговаривать на языке жестов;
-      * Типа позитивный выпуск и минимизация слов паразитов;
-      * Личные истории о детском алкоголизме;
-      * Как мама испытывала на мне пистолет для пробития дырок в ушах;
-      * Вадим и 50 баксов потраченных на Fifa;
-      * Осознанное питье или как в 21 веке любят на все вешать ярлыки;
-      * Гвоздь программы: новый альбом Тома Йорка Анима и одноименная короткометражка;
-      * Музыкальный дайджест: Etherwood, Комсомольск, Black Keys;
-      * Куда сходить на следующей неделе (по секрету – на следующей никуда);
+          Видео версию можно посмотреть на youtube – https://youtu.be/5FhVc3gu3AU
+      </description>
+      <itunes:summary>
+          * Как я (не)спас жизни;
+          * Гейские игры обьявляем открытыми!;
+          * Минск расцветает новыми шерингами;
+          * Рынок для хипстеров и IT боярин;
+          * Вам пакет новый или бу?;
+          * Музыкальный дайджест, к которому Вадим как всегда не подготовился;
+          * Саша и Вадя не посмотрели 5 сезон Черного зеркала, поэтому next time;
+          * Посоветуйте куда сходить;
 
-      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=5tfzMhjy3ZU
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+007.mp3" length="242359901" type="audio/mpeg"/>
-    <pubDate>Mon, 01 Jul 2019 06:00:00 GMT</pubDate>
-    <itunes:duration>01:40:59</itunes:duration>
-    <itunes:order>7</itunes:order>
-    <itunes:episode>007</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+          Видео версию можно посмотреть на youtube – https://youtu.be/5FhVc3gu3AU
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+006.mp3" length="160399918" type="audio/mpeg"/>
+      <pubDate>Mon, 24 Jun 2019 10:34:59 GMT</pubDate>
+      <itunes:duration>01:23:32</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <itunes:episode>006</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">eacda271676e67757clhldhfjskd04b16e76-15</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 008 (гость Вулица Ежа)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>008 (гость Вулица Ежа)</itunes:subtitle>
-    <description>
-      * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
-      * Сервис за который не стыдно забрать бокал
-      * В Норвегии питаться только в магазине
-      * Вулица Ежи – фестиваль, на котором можно топтать газон
-      * Двигатель прогресса – порно и комьютерные игры
-      * Бесконтактные кольца
-      * Time Free остров в Норвегии – беспробудное пьянство
-      * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
-      * Что посетить на неделе в Минске?
+    <item>
+      <guid isPermaLink="false">eacda271676e67757cb9866804b16e76-15</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 007</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>007</itunes:subtitle>
+      <description>
+        * Учись разговаривать на языке жестов;
+        * Типа позитивный выпуск и минимизация слов паразитов;
+        * Личные истории о детском алкоголизме;
+        * Как мама испытывала на мне пистолет для пробития дырок в ушах;
+        * Вадим и 50 баксов потраченных на Fifa;
+        * Осознанное питье или как в 21 веке любят на все вешать ярлыки;
+        * Гвоздь программы: новый альбом Тома Йорка Анима и одноименная короткометражка;
+        * Музыкальный дайджест: Etherwood, Комсомольск, Black Keys;
+        * Куда сходить на следующей неделе (по секрету – на следующей никуда);
 
-      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=DQ88yXBo2tI
-    </description>
-    <itunes:summary>
-      * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
-      * Сервис за который не стыдно забрать бокал
-      * В Норвегии питаться только в магазине
-      * Вулица Ежи – фестиваль, на котором можно топтать газон
-      * Двигатель прогресса – порно и комьютерные игры
-      * Бесконтактные кольца
-      * Time Free остров в Норвегии – беспробудное пьянство
-      * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
-      * Что посетить на неделе в Минске?
+        Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=5tfzMhjy3ZU
+      </description>
+      <itunes:summary>
+        * Учись разговаривать на языке жестов;
+        * Типа позитивный выпуск и минимизация слов паразитов;
+        * Личные истории о детском алкоголизме;
+        * Как мама испытывала на мне пистолет для пробития дырок в ушах;
+        * Вадим и 50 баксов потраченных на Fifa;
+        * Осознанное питье или как в 21 веке любят на все вешать ярлыки;
+        * Гвоздь программы: новый альбом Тома Йорка Анима и одноименная короткометражка;
+        * Музыкальный дайджест: Etherwood, Комсомольск, Black Keys;
+        * Куда сходить на следующей неделе (по секрету – на следующей никуда);
 
-      Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=DQ88yXBo2tI
-    </itunes:summary>
-    <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+008.mp3" length="256673958" type="audio/mpeg"/>
-    <pubDate>Mon, 08 Jul 2019 06:00:00 GMT</pubDate>
-    <itunes:duration>01:46:57</itunes:duration>
-    <itunes:order>8</itunes:order>
-    <itunes:episode>008</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=5tfzMhjy3ZU
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+007.mp3" length="242359901" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jul 2019 06:00:00 GMT</pubDate>
+      <itunes:duration>01:40:59</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <itunes:episode>007</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">eacda27lk12jl3257757clhldhfjskd04b16e76-1f</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 009</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>009</itunes:subtitle>
-    <description><![CDATA[<ul><li>Неостросюжетная история Саши о потерянном телефоне</li><li>Дедушки злостные воришки шеринговых велосипедов</li><li>Будет почти без спойлеров – новый сезон Stranger Things</li><li>3 попытка поговорить о Черном Зеркале</li><li>Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками</li><li>Голуби и безумные кашевары - угадайте что это</li><li>Хитрая подписка 65daysofstatic - попытка заработать хоть как-то</li><li>Новый альбом Banks маскирующийся под Lorn</li><li>Chase and Status – джангловая любовь Саши</li><li>Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим</li><li>Новый гастрофест в Минске</li><li>Меломаны - место застрявших во времени хипстеров</li><li>Куда сгонять в Минске?</li></ul>]]></description>
-    <itunes:summary>
-      * Неостросюжетная история Саши о потерянном телефоне
-      * Дедушки злостные воришки шеринговых велосипедов
-      * Будет почти без спойлеров – новый сезон Stranger Things
-      * 3 попытка поговорить о Черном Зеркале
-      * Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками
-      * Голуби и безумные кашевары - угадайте что это
-      * Хитрая подписка 65daysofstatic - попытка заработать хоть как-то
-      * Новый альбом Banks маскирующийся под Lorn
-      * Chase and Status – джангловая любовь Саши
-      * Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим
-      * Новый гастрофест в Минске
-      * Меломаны - место застрявших во времени хипстеров
-      * Куда сгонять в Минске?
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/Artboard+1+square+copy.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+009.mp3" length="154087420" type="audio/mpeg"/>
-    <pubDate>Mon, 15 Jul 2019 06:00:00 GMT</pubDate>
-    <itunes:duration>01:47:00</itunes:duration>
-    <itunes:order>9</itunes:order>
-    <itunes:episode>009</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+    <item>
+      <guid isPermaLink="false">eacda271676e67757clhldhfjskd04b16e76-15</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 008 (гость Вулица Ежа)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>008 (гость Вулица Ежа)</itunes:subtitle>
+      <description>
+        * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
+        * Сервис за который не стыдно забрать бокал
+        * В Норвегии питаться только в магазине
+        * Вулица Ежи – фестиваль, на котором можно топтать газон
+        * Двигатель прогресса – порно и комьютерные игры
+        * Бесконтактные кольца
+        * Time Free остров в Норвегии – беспробудное пьянство
+        * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
+        * Что посетить на неделе в Минске?
 
-  <item>
-    <guid isPermaLink="false">ea2l3ktj2lkfmsldkjf-6e76-1f</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 010</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>010</itunes:subtitle>
-    <description><![CDATA[<ul>
-        <li>Машинное обучение просочилось в наши дома!</li>
-        <li>Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?</li>
-        <li>Кингзман - современная замена бондиане?</li>
-        <li>Сексизм наступает! Все новые трейлеры с женскими персонажами</li>
-        <li>Кто вернет карьеру Кевину Спейси?</li>
-        <li>Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа</li>
-        <li>Мистер Робот – психоз растет</li>
-        <li>У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии</li>
-        <li>Four Tet - Dreamer новый сингл, как трек для Leyden</li>
-        <li>Tycho - Weather, легкий летний привет от американского продюсера</li>
-        <li>Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея</li>
-        <li>Куда сходить на этой неделе в Минске?</li>
-      </ul>]]></description>
-    <itunes:summary>
-      * Машинное обучение просочилось в наши дома!
-      * Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?
-      * Кингзман - современная замена бондиане?
-      * Сексизм наступает! Все новые трейлеры с женскими персонажами
-      * Кто вернет карьеру Кевину Спейси?
-      * Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа
-      * Мистер Робот – психоз растет
-      * У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии
-      * Four Tet - Dreamer новый сингл, как трек для Leyden
-      * Tycho - Weather, легкий летний привет от американского продюсера
-      * Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея
-      * Куда сходить на этой неделе в Минске?
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+010.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+010.mp3" length="129793297" type="audio/mpeg"/>
-    <pubDate>Mon, 22 Jul 2019 10:00:00 GMT</pubDate>
-    <itunes:duration>01:30:08</itunes:duration>
-    <itunes:order>10</itunes:order>
-    <itunes:episode>010</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=DQ88yXBo2tI
+      </description>
+      <itunes:summary>
+        * Special Guest Егор – создатель фестиваля уличной еды Вулица Ежи
+        * Сервис за который не стыдно забрать бокал
+        * В Норвегии питаться только в магазине
+        * Вулица Ежи – фестиваль, на котором можно топтать газон
+        * Двигатель прогресса – порно и комьютерные игры
+        * Бесконтактные кольца
+        * Time Free остров в Норвегии – беспробудное пьянство
+        * Музыкальный дайджест: Freddie Gibs/Madlib, Bonobo, Lorn, Noisia, Cream Soda
+        * Что посетить на неделе в Минске?
 
-  <item>
-    <guid isPermaLink="false">ealkjshdqo2h3flskdf-6e76-1f</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 011</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>011</itunes:subtitle>
-    <description><![CDATA[<ul>
-        <li>Травмы детства и трупный глаз Саши</li>
-        <li>От чего Вадиму нужно бежать? Конечно от армии</li>
-        <li>В Минск приходит еще один байкшеринг, на этот раз с отечественными велами</li>
-        <li>Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск</li>
-        <li>Материнский альбом Shuma</li>
-        <li>Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука</li>
-        <li>Кларк и его мрачная меланхолия</li>
-        <li>Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше</li>
-        <li>Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!</li>
-        <li>Куда сходить в Минске на этой неделе?</li>
-      </ul>]]></description>
-    <itunes:summary>
-      * Травмы детства и трупный глаз Саши
-      * От чего Вадиму нужно бежать? Конечно от армии
-      * В Минск приходит еще один байкшеринг, на этот раз с отечественными велами
-      * Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск
-      * Материнский альбом Shuma
-      * Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука
-      * Кларк и его мрачная меланхолия
-      * Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше
-      * Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!
-      * Куда сходить в Минске на этой неделе?
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+011.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+011.mp3" length="190470714" type="audio/mpeg"/>
-    <pubDate>Mon, 29 Jul 2019 10:00:00 GMT</pubDate>
-    <itunes:duration>01:39:12</itunes:duration>
-    <itunes:order>11</itunes:order>
-    <itunes:episode>011</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
+        Видео версию можно посмотреть на youtube – https://www.youtube.com/watch?v=DQ88yXBo2tI
+      </itunes:summary>
+      <itunes:image href="https://cerberart.github.io/podval-trep/images/006/banner.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+008.mp3" length="256673958" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Jul 2019 06:00:00 GMT</pubDate>
+      <itunes:duration>01:46:57</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <itunes:episode>008</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-  <item>
-    <guid isPermaLink="false">330fe3de0486b4e1bcc97e883b17f978-21</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</title>
-    <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
-    <itunes:subtitle>012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</itunes:subtitle>
-    <description><![CDATA[<p>Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!</p>
+    <item>
+      <guid isPermaLink="false">eacda27lk12jl3257757clhldhfjskd04b16e76-1f</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 009</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>009</itunes:subtitle>
+      <description><![CDATA[<ul><li>Неостросюжетная история Саши о потерянном телефоне</li><li>Дедушки злостные воришки шеринговых велосипедов</li><li>Будет почти без спойлеров – новый сезон Stranger Things</li><li>3 попытка поговорить о Черном Зеркале</li><li>Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками</li><li>Голуби и безумные кашевары - угадайте что это</li><li>Хитрая подписка 65daysofstatic - попытка заработать хоть как-то</li><li>Новый альбом Banks маскирующийся под Lorn</li><li>Chase and Status – джангловая любовь Саши</li><li>Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим</li><li>Новый гастрофест в Минске</li><li>Меломаны - место застрявших во времени хипстеров</li><li>Куда сгонять в Минске?</li></ul>]]></description>
+      <itunes:summary>
+        * Неостросюжетная история Саши о потерянном телефоне
+        * Дедушки злостные воришки шеринговых велосипедов
+        * Будет почти без спойлеров – новый сезон Stranger Things
+        * 3 попытка поговорить о Черном Зеркале
+        * Гудков не отстает от Странных Дел и возвращает нам 80-е с порно усишками
+        * Голуби и безумные кашевары - угадайте что это
+        * Хитрая подписка 65daysofstatic - попытка заработать хоть как-то
+        * Новый альбом Banks маскирующийся под Lorn
+        * Chase and Status – джангловая любовь Саши
+        * Дорожает шенген, в Екатиренбурге фотографиют номера машин только сзади, новый нинтендо свич - обо всем об это мы не поговорим
+        * Новый гастрофест в Минске
+        * Меломаны - место застрявших во времени хипстеров
+        * Куда сгонять в Минске?
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/Artboard+1+square+copy.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+009.mp3" length="154087420" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jul 2019 06:00:00 GMT</pubDate>
+      <itunes:duration>01:47:00</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <itunes:episode>009</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-      <p>Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:</p>
-      <ul>
-      <li>что это вообще такое за исследование, которым занимается Лев<li>
-      <li>могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?</li>
-      <li>татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?</li>
-      <li>23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов</li>
-      <li>если растения с ГМО содержат гены, может ли у меня внутри расти чечевица</li>
-      <li>зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?</li>
-      <li>генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?</li>
-      <li>в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках</li>
-      <li>и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!</li>
-      </ul>
-      <p>Ссылки из выпуска:</p>
-      <ul>
-      <li>23andme.com - тот самый ДНК тест</li>
-      <li>https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!</li>
-      <li>https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций</li>
-      </ul>
-      <p>В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.</p>]]>
-    </description>
-    <itunes:summary>
-      Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!
+    <item>
+      <guid isPermaLink="false">ea2l3ktj2lkfmsldkjf-6e76-1f</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 010</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>010</itunes:subtitle>
+      <description><![CDATA[<ul>
+          <li>Машинное обучение просочилось в наши дома!</li>
+          <li>Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?</li>
+          <li>Кингзман - современная замена бондиане?</li>
+          <li>Сексизм наступает! Все новые трейлеры с женскими персонажами</li>
+          <li>Кто вернет карьеру Кевину Спейси?</li>
+          <li>Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа</li>
+          <li>Мистер Робот – психоз растет</li>
+          <li>У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии</li>
+          <li>Four Tet - Dreamer новый сингл, как трек для Leyden</li>
+          <li>Tycho - Weather, легкий летний привет от американского продюсера</li>
+          <li>Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея</li>
+          <li>Куда сходить на этой неделе в Минске?</li>
+        </ul>]]></description>
+      <itunes:summary>
+        * Машинное обучение просочилось в наши дома!
+        * Что общего у зоны 51 и щучинского государственного сельскохозяйственного профессионального лицея?
+        * Кингзман - современная замена бондиане?
+        * Сексизм наступает! Все новые трейлеры с женскими персонажами
+        * Кто вернет карьеру Кевину Спейси?
+        * Новый сезон Мир дикого запада – нацистская Германия и роботы из Робокопа
+        * Мистер Робот – психоз растет
+        * У Джея и молчаливого Боба закончились деньги, попытка заработать на ностальгии
+        * Four Tet - Dreamer новый сингл, как трек для Leyden
+        * Tycho - Weather, легкий летний привет от американского продюсера
+        * Вернемся к теме щучинского государственного сельскохозяйственного профессионального лицея
+        * Куда сходить на этой неделе в Минске?
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+010.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+010.mp3" length="129793297" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jul 2019 10:00:00 GMT</pubDate>
+      <itunes:duration>01:30:08</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <itunes:episode>010</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
 
-      Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:
-      * что это вообще такое за исследование, которым занимается Лев
-      * могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?
-      * татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?
-      * 23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов
-      * если растения с ГМО содержат гены, может ли у меня внутри расти чечевица
-      * зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?
-      * генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?
-      * в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках
-      * и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!
+    <item>
+      <guid isPermaLink="false">ealkjshdqo2h3flskdf-6e76-1f</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 011</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>011</itunes:subtitle>
+      <description><![CDATA[<ul>
+          <li>Травмы детства и трупный глаз Саши</li>
+          <li>От чего Вадиму нужно бежать? Конечно от армии</li>
+          <li>В Минск приходит еще один байкшеринг, на этот раз с отечественными велами</li>
+          <li>Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск</li>
+          <li>Материнский альбом Shuma</li>
+          <li>Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука</li>
+          <li>Кларк и его мрачная меланхолия</li>
+          <li>Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше</li>
+          <li>Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!</li>
+          <li>Куда сходить в Минске на этой неделе?</li>
+        </ul>]]></description>
+      <itunes:summary>
+        * Травмы детства и трупный глаз Саши
+        * От чего Вадиму нужно бежать? Конечно от армии
+        * В Минск приходит еще один байкшеринг, на этот раз с отечественными велами
+        * Смерть Доминос уже этой осенью! Яндекс.Еда спешит в Минск
+        * Материнский альбом Shuma
+        * Только Tool могут анонсировать альбом 45 секундным роликом на котором ничего не происходит и без звука
+        * Кларк и его мрачная меланхолия
+        * Люкке Ли ударилась в грустный поп и соул. Говорит целоваться в темноте лучше
+        * Знаете ли вы хоть одну группу из Новой Зеландии? Теперь да, и это Leisure!
+        * Куда сходить в Минске на этой неделе?
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+011.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+011.mp3" length="190470714" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jul 2019 10:00:00 GMT</pubDate>
+      <itunes:duration>01:39:12</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <itunes:episode>011</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
 
-      Ссылки из выпуска:
+    <item>
+      <guid isPermaLink="false">330fe3de0486b4e1bcc97e883b17f978-21</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</title>
+      <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
+      <itunes:subtitle>012 (Генетические заболевания, биотерроризм, существуют ли белорусы, ГМО спасет человечество)</itunes:subtitle>
+      <description><![CDATA[<p>Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!</p>
 
-      * 23andme.com - тот самый ДНК тест
-      * https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!
-      * https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций
-
-      В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+012.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+012.mp3" length="349760782" type="audio/mpeg"/>
-    <pubDate>Mon, 05 Aug 2019 10:00:00 GMT</pubDate>
-    <itunes:duration>02:25:44</itunes:duration>
-    <itunes:order>12</itunes:order>
-    <itunes:episode>012</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-
-  <item>
-    <guid isPermaLink="false">7381f79573e034296a8e6e6be12dc953-11</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 013 (The Boys, Рок за бобров, RSConf, Wizzair)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>013 (The Boys, Рок за бобров, RSConf, Wizzair)</itunes:subtitle>
-    <description><![CDATA[<p>Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - <a href="https://linktr.ee/podval.sessions">linktr.ee/podval.sessions</a></p><p>В проклятом, но классическом выпуске:</p>
-       <ul><li>⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019</li><li>⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?</li><li>⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?</li><li>⁃ WizzAir уже почти виднеется в Минском небе</li><li>⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet</li></ul><br /><p>Немножко полезных ссылок:</p><p><a href="https://www.youtube.com/watch?v=tcrNsIaQkb4">Трейлер The Boys</a></p><p>Сервис для ведения дневничка просмотра кино - <a href="https://letterboxd.com/">letterboxd</a> (плюс прилаги для iOS, Android), наши аккаунты:</p><ul><li><a href="https://letterboxd.com/sea5calf/">letterboxd.com/sea5calf</a> - Вадим</li><li><a href="https://letterboxd.com/xejogear/">letterboxd.com/xejogear</a> - Саша</li><li><a href="https://letterboxd.com/arty9000/">letterboxd.com/arty9000</a> - Артем</li></ul><p>Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/</p><p><a href="https://youtu.be/t433PEQGErc">Трейлер The Joker</a></p><p>Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)</p>]]></description>
-    <itunes:summary>
-      Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - https://linktr.ee/podval.sessions
-
-      В проклятом, но классическом выпуске:
-      ⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019
-      ⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?
-      ⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?
-      ⁃ WizzAir уже почти виднеется в Минском небе
-      ⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet
-
-      Немножко полезных ссылок:
-
-      Трейлер The Boys - https://www.youtube.com/watch?v=tcrNsIaQkb4
-      Сервис для ведения дневничка просмотра кино - https://letterboxd.com/ (плюс прилаги для iOS, Android), наши аккаунты:
-        * https://letterboxd.com/sea5calf/ - Вадим
-        * https://letterboxd.com/xejogear/ - Саша
-        * https://letterboxd.com/arty9000/ - Артем
-      Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/
-      Трейлер The Joker - https://youtu.be/t433PEQGErc
-
-      Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+013.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+013.mp3" length="178177297" type="audio/mpeg"/>
-    <pubDate>Mon, 12 Aug 2019 10:00:00 GMT</pubDate>
-    <itunes:duration>02:03:44</itunes:duration>
-    <itunes:order>13</itunes:order>
-    <itunes:episode>013</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>yes</itunes:explicit>
-  </item>
-
-  <item>
-    <guid isPermaLink="false">8b38871a2889c8e3a1c440996722c3f9-9</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 014 (Однажды в … Голливуде, костюм для удовлетворения сексуальных потребностей, штраф за пьяную езду на электросамокате)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>014 (Однажды в … Голливуде, костюм для удовлетворения сексуальных потребностей, штраф за пьяную езду на электросамокате)</itunes:subtitle>
-    <description><![CDATA[<h1 id="podcast014">ПОДКАСТ 014</h1>
-      <p>Ожидание нового эпизода подкаста повышает удовольствие, полученное от него (с) - Эйнштейн</p>
-      <p>Вот мы и решили чуть припоздать с нашим 14 выпуском, чтобы вам было нервозней и интересней его ждать. В этом выпуске Артем и Вадим обсуждают Нину Тарантину и почти ничего больше:</p>
-      <ul>
-      <li>Как мы смотрели фильмы в детстве и как впервые наткнулись на творчество Квентина Тарантино?</li>
-      <li>Однажды в … Голливуде - обсуждаем сюжетный твист, аудио- и видео- составляющие, стилистику режиссера, и рассыпаем немножко интересных фактов</li>
-      </ul>
-      <p>Ну и в дополнение пара интересных ссылок:</p>
-      <ul>
-      <li><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/">https://letterboxd.com/film/once-upon-a-time-in-hollywood/</a>  - страничка фильма в Letterboxd</li>
-      <li><a href="https://youtu.be/ix-ym3c736o">“It felt pretty good!" Quentin Tarantino on ‘appearing’ in The Avengers, Team America and Shrek. - YouTube</a> Интервью квентина BBC о влиянии своих фильмов на поп-культуру</li>
-      <li><a href="https://youtu.be/4JpDQT7dMZ4">Тарантино высмеивает боевики - YouTube</a> - Хороший разбор деталей в Бесславных Ублюдках от канала ЧБУ</li>
-      <li><a href="youtube.com/watch?v=8Dnpw-w2Z_g">The Crown Season 3</a> - Трейлер нового сезона The Crown от Netflix</li>
-      <li><a href="https://www.amediateka.ru/watch/series_21501_ejforiya">Эйфория сериал смотреть онлайн</a> - Сериал Euphoria на сервисе Amediateka - рекомендация от Вадима</li>
-      <li><a href="https://knife.media/ripple/">https://knife.media/ripple/</a> Костюм для удовлетворения сексуальных потребностей, призванный помочь людям с ограниченными возможностями</li>
-      </ul>
-      <p>А напоследок - небольшие кино-рекомендации от Артема и Вадима на следующую неделю в Минске:</p>
-      <ul>
-      <li><a href="https://afisha.tut.by/film/pod-silver-leyk/">Детектив Под Сильвер-Лэйк</a></li>
-      <li><a href="https://afisha.tut.by/film/smert-i-zhizn-dzhona-f-donovana/">Драма Смерть и жизнь Джона Ф. Донована</a></li>
-      </ul>]]></description>
-    <itunes:summary>
-      Ожидание нового эпизода подкаста повышает удовольствие, полученное от него (с) - Эйнштейн
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+014.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+014.mp3" length="145873650" type="audio/mpeg"/>
-    <pubDate>Mon, 20 Aug 2019 10:00:00 GMT</pubDate>
-    <itunes:duration>01:41:18</itunes:duration>
-    <itunes:order>14</itunes:order>
-    <itunes:episode>014</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-
-  <item>
-    <guid isPermaLink="false">885f271a0e23ec3933360c6791a78aec-11</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 015 (Vulica Brasil)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>015 (Vulica Brasil)</itunes:subtitle>
-    <description><![CDATA[<p>Podval 015</p>
-      <p>Сегодня у нас в гостях Мила Котка - родная Мама арт-стрит-паблик-урбан-кино-фэшн-эду фестиваля Vulitsa Brazil!</p>
-      <p>Мы активно расспросим Милу в первом BY-подкасте:</p>
-      <ul>
-       <li>О том, откуда взялся фестиваль и как у него появились мама и папа</li>
-       <li>Какие главные сложности и метаморфозы пережил фестиваль</li>
-       <li>Как складывалась идентичность фестиваля, синонимичен ли он развитию улицы Октябрьской, как складывался акцент на уличном искусстве разного калибра</li>
-       <li>О Принципе активного “делания” для всех участников семьи фестиваля</li>
-       <li>Зададим огненные вопросы от зрителей и подписчиков, и обсудим огненные скандалы, связанные со стрит-артом в Минске</li>
-       <li>Какие идеалы и мечты преследует Мила и Vulitsa Brazil Família в будущем, о перспективах проведения Rua Belarus в Бразилии</li>
-      </ul>
-      <p>Подробнее узнать о белорусско-бразильском фестивале можно по ссылкам:</p>
-      <ul>
-       <li>
-        <a href="http://www.vulica-brasil.by/">Оф сайт фестиваля: Программа, Художники и много общей информации</a>
-       </li>
-       <li>
-        <a href="https://afisha.tut.by/news/places/558463.html">Фото-репортаж о муралах фестиваля 2017 года от Tut.by</a>
-       </li>
-       <li>
-        <a href="https://minsknews.by/gid-po-vulica-brazil-v-minske-gde-iskat-graffiti-belorusskih-i-brazilskih-hudozhnikov/">Еще один небольшой репортаж о более ранних картинах-граффити на minsknews.by</a>
-       </li>
-      </ul>
-      <p>P.S. Вадиму заклеят рот, не пропустите</p>]]>
-    </description>
-    <itunes:summary>
-      Сегодня у нас в гостях Мила Котка - родная Мама арт-стрит-паблик-урбан-кино-фэшн-эду фестиваля Vulitsa Brazil!
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+015.jpg" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+015.mp3" length="184129454" type="audio/mpeg"/>
-    <pubDate>Mon, 26 Aug 2019 02:00:00 GMT</pubDate>
-    <itunes:duration>02:07:52</itunes:duration>
-    <itunes:order>15</itunes:order>
-    <itunes:episode>015</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-
-  <item>
-    <guid isPermaLink="false">a1d23f7ec3956d423a81729403edec3c-10</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТРЁП – 016 (Неделя Tool)</title>
-    <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
-    <itunes:subtitle>016 (Неделя Tool)</itunes:subtitle>
-    <description>
-      <![CDATA[
-        <p>Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!</p>
-        <p>В этот раз мы поговорим сразу на очень много тем:</p>
+        <p>Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:</p>
         <ul>
-          <li>1 сентября и наше к нему отношение (с историями, конечно!)</li>
-          <li>Новый альбом Tool - Fear Innoculum, и его месте в наших сердечках</li>
-          <li>Главный концерт лета в Минске - Макс Корж на стадионе Динамо</li>
-          <li>Другие музыкальные новинки: альбомы СБПЧ, Lana del Rey, EP от Four Tet - все уже доступно в ваших любимых стриминг-сервисах</li>
-          <li>Вадим расскажет об удобстве eSim в честь начала его поддержки A1 в Беларуси</li>
-          <li>Затронем новости из-за бугра - Youtube с их новыми политиками против Hate Speech</li>
-          <li>Самый главный сок номера - возможно, на наших было совершено первое в истории космическое преступление! Пиратство? Войны за ресурсы? Все намного круче, включайте погромче</li>
-          <li>Не забудем и кино - новые трейлеры Irishman, Breaking Bad, новости из Венеции</li>
+        <li>что это вообще такое за исследование, которым занимается Лев<li>
+        <li>могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?</li>
+        <li>татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?</li>
+        <li>23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов</li>
+        <li>если растения с ГМО содержат гены, может ли у меня внутри расти чечевица</li>
+        <li>зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?</li>
+        <li>генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?</li>
+        <li>в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках</li>
+        <li>и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!</li>
         </ul>
-
-        <p>А напоследок держите ссылочки, по которым можно почитать больше о темах выпуска:</p>
+        <p>Ссылки из выпуска:</p>
         <ul>
-          <li>Tool - <a href="http://smarturl.it/TOOLFIa">Fear Innoculum</a></li>
-          <li>Фронтмен Tool <a href="https://youtu.be/9-w-LFBw8Co">в гостях у Joe Roegan</a></li>
-          <li><a href="https://afisha.tut.by/news/anews/650703.html">Фоторепортаж Tut.by</a> с того самого концерта Макса Коржа</li>
-          <li><a href="https://42.tut.by/649112">Новость о запуске eSim в Беларуси</a></li>
-          <li><a href="https://www.nytimes.com/2019/08/23/us/nasa-astronaut-anne-mcclain.html"> Статья, описывающая обвинения</a> в первом в истории преступлении, совершенном из космоса</li>
+        <li>23andme.com - тот самый ДНК тест</li>
+        <li>https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!</li>
+        <li>https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций</li>
         </ul>
+        <p>В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.</p>]]>
+      </description>
+      <itunes:summary>
+        Всем привет в этот знойный летний понедельник! Сегодня вас прибыл развлекать и образовывать первый специальный выпуск ПОДВАЛ ТРЁП https://linktr.ee/podval.sessions с нашим особенным гостем!
 
-        <p>Новые трейлеры:</p>
-        <ul>
-          <li><a href="https://youtu.be/h_2RjQwQGV0">Irishman</a> - фильм Netflix от Мартина Скорсезе</li>
-          <li><a href="https://www.youtube.com/watch?v=lZKqMVPlDg8">El Camino</a> - новый фильм по Breaking Bad</li>
-          <li><a href=" https://youtu.be/-y1HhAlAOTs">Marriage Story</a> - фильм-участник Венецианского кинофестиваля от Ноа Баумбаха с Адамом Драйвером и Скарлетт Йоханссон</li>
-          <li><a href="https://youtu.be/5btyBWXgl44">Джокер</a> - финальный трейлер нового фильма с Хоакином Фениксом </li>
-        </ul>
-        <p>В этом подкасте для вас грелись на солнышке Саша и Вадим, ребята ничем не примечательные, но общительные</p>
-      ]]>
-    </description>
-    <itunes:summary>
-      Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+016.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+016.mp3" length="155582424" type="audio/mpeg"/>
-    <pubDate>Mon, 02 Sep 2019 02:00:00 GMT</pubDate>
-    <itunes:duration>01:48:02</itunes:duration>
-    <itunes:order>16</itunes:order>
-    <itunes:episode>016</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
+        Лев - младший научный сотрудник института микробиологии НАН Беларуси, и вот о чем мы с ним поговорим:
+        * что это вообще такое за исследование, которым занимается Лев
+        * могут ли генетические заболевания представлять опасность для всего человечества, и где сейчас находится наука в борьбе с ними?
+        * татары, беларусы - есть ли разница на генетическом уровне, и как ее найти?
+        * 23andme - не реклама, а рассказ о том, почему тебе (не)стоит воспользоваться анализом ДНК подобных сервисов
+        * если растения с ГМО содержат гены, может ли у меня внутри расти чечевица
+        * зачем кому-то могут понадобиться эко, грин, бифидо и «органические» продукты, и в чем их ценность?
+        * генная инженерия животных и растений - реальность, штамп из фантастики, или угроза биотерроризма?
+        * в конце концов, затронем то, как Лёве удаётся держать свои усы в таких уверенных колечках
+        * и напоследок, по традиции - куда стоит заглянуть на этой неделе в Минске, чтобы встретить Артёма или Вадима!
 
-  <item>
-    <guid isPermaLink="false">3804362dcf1e2426be4cf0da907f3bec-8</guid>
-    <itunes:season>1</itunes:season>
-    <category>podcast</category>
-    <link>https://linktr.ee/podval.sessions</link>
-    <dc:creator>PODVAL Sessions</dc:creator>
-    <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 017</title>
-    <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
-    <itunes:subtitle>017</itunes:subtitle>
-    <description>
-      <![CDATA[
-        <p>Сегодня у нас в гостях Евгения, менеджер ивентов, а в прошлом - организатор концертов в Минске! На летней крыше вместе с ней мы обсудим самые музыкальные темы:</p>
+        Ссылки из выпуска:
+
+        * 23andme.com - тот самый ДНК тест
+        * https://www.bbc.com/russian/features-46362487 - ГМО-дети уже близко!
+        * https://www.imdb.com/title/tt0119177/ - фильм Гаттака на тему генетических модификаций
+
+        В этом выпуске для вас старались Лев - тот самый учёный, Вадим - тоже лев, но неуч, и Артём - автор твоих любимых историй.
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+012.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+012.mp3" length="349760782" type="audio/mpeg"/>
+      <pubDate>Mon, 05 Aug 2019 10:00:00 GMT</pubDate>
+      <itunes:duration>02:25:44</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <itunes:episode>012</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">7381f79573e034296a8e6e6be12dc953-11</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 013 (The Boys, Рок за бобров, RSConf, Wizzair)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>013 (The Boys, Рок за бобров, RSConf, Wizzair)</itunes:subtitle>
+      <description><![CDATA[<p>Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - <a href="https://linktr.ee/podval.sessions">linktr.ee/podval.sessions</a></p><p>В проклятом, но классическом выпуске:</p>
+         <ul><li>⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019</li><li>⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?</li><li>⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?</li><li>⁃ WizzAir уже почти виднеется в Минском небе</li><li>⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet</li></ul><br /><p>Немножко полезных ссылок:</p><p><a href="https://www.youtube.com/watch?v=tcrNsIaQkb4">Трейлер The Boys</a></p><p>Сервис для ведения дневничка просмотра кино - <a href="https://letterboxd.com/">letterboxd</a> (плюс прилаги для iOS, Android), наши аккаунты:</p><ul><li><a href="https://letterboxd.com/sea5calf/">letterboxd.com/sea5calf</a> - Вадим</li><li><a href="https://letterboxd.com/xejogear/">letterboxd.com/xejogear</a> - Саша</li><li><a href="https://letterboxd.com/arty9000/">letterboxd.com/arty9000</a> - Артем</li></ul><p>Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/</p><p><a href="https://youtu.be/t433PEQGErc">Трейлер The Joker</a></p><p>Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)</p>]]></description>
+      <itunes:summary>
+        Традиционный состав подкаста снова в сборе, чтобы наговорить для вас ПОДВАЛ.ТРЁП - 013, ссылочки по ссылочке - https://linktr.ee/podval.sessions
+
+        В проклятом, но классическом выпуске:
+        ⁃ Пальма интересности истории уходит к Вадиму, а Артем рассказывает про RSconf 2019
+        ⁃ Рок за Бобров 2019: Придет ли Саша к тому, что обещал, или нет?
+        ⁃ В центре внимания: The Boys - Watchmen 2019, Misfits или альтернатива продукции Marvel?
+        ⁃ WizzAir уже почти виднеется в Минском небе
+        ⁃ По традиции новая музыка - Tool, Slipknot, Arms Sleepers, Burial, Skillet
+
+        Немножко полезных ссылок:
+
+        Трейлер The Boys - https://www.youtube.com/watch?v=tcrNsIaQkb4
+        Сервис для ведения дневничка просмотра кино - https://letterboxd.com/ (плюс прилаги для iOS, Android), наши аккаунты:
+          * https://letterboxd.com/sea5calf/ - Вадим
+          * https://letterboxd.com/xejogear/ - Саша
+          * https://letterboxd.com/arty9000/ - Артем
+        Сервис для автоматического отслеживания просмотренных фильмов и сериалов - https://trakt.tv/
+        Трейлер The Joker - https://youtu.be/t433PEQGErc
+
+        Читали для вас этот подкаст с бумажки: Саша (не переносит Watchmen), Артем (не читал Watchmen) и Вадим (любит и ценит Watchmen)
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+013.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+013.mp3" length="178177297" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Aug 2019 10:00:00 GMT</pubDate>
+      <itunes:duration>02:03:44</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <itunes:episode>013</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">8b38871a2889c8e3a1c440996722c3f9-9</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 014 (Однажды в … Голливуде, костюм для удовлетворения сексуальных потребностей, штраф за пьяную езду на электросамокате)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>014 (Однажды в … Голливуде, костюм для удовлетворения сексуальных потребностей, штраф за пьяную езду на электросамокате)</itunes:subtitle>
+      <description><![CDATA[<h1 id="podcast014">ПОДКАСТ 014</h1>
+        <p>Ожидание нового эпизода подкаста повышает удовольствие, полученное от него (с) - Эйнштейн</p>
+        <p>Вот мы и решили чуть припоздать с нашим 14 выпуском, чтобы вам было нервозней и интересней его ждать. В этом выпуске Артем и Вадим обсуждают Нину Тарантину и почти ничего больше:</p>
         <ul>
-          <li>Для начала опустимся в колодец ностальгии и вспомним наши первые посещения по-настоящему больших концертов</li>
-          <li>Узнаем у Жени о том, как организовать концерт, если у тебя есть своя молодая группа?</li>
-          <li>Насколько сложно в Минске договориться с клубом о проведении концерта и сколько это стоит?</li>
-          <li>Ренессанс национальной музыки: есть кто?</li>
-          <li>Почему в Беларусь не привезут Childish Gambino или Billy Eilish в ближайшие 15 лет? Какие у таких музыкантов райдеры?</li>
-          <li>Как рекламировать концерты в Минске для тех живых, кому ещё меньше 40?</li>
-          <li>Творческие люди - хорошо или плохо, как с ними жить?</li>
-          <li>Перспективные молодые группы Беларуси - кого мы видим лидерами местной сцены в ближайшие годы?</li>
+        <li>Как мы смотрели фильмы в детстве и как впервые наткнулись на творчество Квентина Тарантино?</li>
+        <li>Однажды в … Голливуде - обсуждаем сюжетный твист, аудио- и видео- составляющие, стилистику режиссера, и рассыпаем немножко интересных фактов</li>
         </ul>
-      ]]>
-    </description>
-    <itunes:summary>
-      ПОДВАЛ.ТРЁП.017 вместе с гостем Женей из продюсерского центра.
-    </itunes:summary>
-    <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+017.png" />
-    <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+017.mp3" length="136705297" type="audio/mpeg"/>
-    <pubDate>Mon, 16 Sep 2019 02:00:00 GMT</pubDate>
-    <itunes:duration>01:34:56</itunes:duration>
-    <itunes:order>17</itunes:order>
-    <itunes:episode>017</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <content:encoded><![CDATA[]]></content:encoded>
-    <itunes:explicit>no</itunes:explicit>
-  </item>
-</channel>
+        <p>Ну и в дополнение пара интересных ссылок:</p>
+        <ul>
+        <li><a href="https://letterboxd.com/film/once-upon-a-time-in-hollywood/">https://letterboxd.com/film/once-upon-a-time-in-hollywood/</a>  - страничка фильма в Letterboxd</li>
+        <li><a href="https://youtu.be/ix-ym3c736o">“It felt pretty good!" Quentin Tarantino on ‘appearing’ in The Avengers, Team America and Shrek. - YouTube</a> Интервью квентина BBC о влиянии своих фильмов на поп-культуру</li>
+        <li><a href="https://youtu.be/4JpDQT7dMZ4">Тарантино высмеивает боевики - YouTube</a> - Хороший разбор деталей в Бесславных Ублюдках от канала ЧБУ</li>
+        <li><a href="youtube.com/watch?v=8Dnpw-w2Z_g">The Crown Season 3</a> - Трейлер нового сезона The Crown от Netflix</li>
+        <li><a href="https://www.amediateka.ru/watch/series_21501_ejforiya">Эйфория сериал смотреть онлайн</a> - Сериал Euphoria на сервисе Amediateka - рекомендация от Вадима</li>
+        <li><a href="https://knife.media/ripple/">https://knife.media/ripple/</a> Костюм для удовлетворения сексуальных потребностей, призванный помочь людям с ограниченными возможностями</li>
+        </ul>
+        <p>А напоследок - небольшие кино-рекомендации от Артема и Вадима на следующую неделю в Минске:</p>
+        <ul>
+        <li><a href="https://afisha.tut.by/film/pod-silver-leyk/">Детектив Под Сильвер-Лэйк</a></li>
+        <li><a href="https://afisha.tut.by/film/smert-i-zhizn-dzhona-f-donovana/">Драма Смерть и жизнь Джона Ф. Донована</a></li>
+        </ul>]]></description>
+      <itunes:summary>
+        Ожидание нового эпизода подкаста повышает удовольствие, полученное от него (с) - Эйнштейн
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+014.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+014.mp3" length="145873650" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Aug 2019 10:00:00 GMT</pubDate>
+      <itunes:duration>01:41:18</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <itunes:episode>014</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">885f271a0e23ec3933360c6791a78aec-11</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 015 (Vulica Brasil)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>015 (Vulica Brasil)</itunes:subtitle>
+      <description><![CDATA[<p>Podval 015</p>
+        <p>Сегодня у нас в гостях Мила Котка - родная Мама арт-стрит-паблик-урбан-кино-фэшн-эду фестиваля Vulitsa Brazil!</p>
+        <p>Мы активно расспросим Милу в первом BY-подкасте:</p>
+        <ul>
+         <li>О том, откуда взялся фестиваль и как у него появились мама и папа</li>
+         <li>Какие главные сложности и метаморфозы пережил фестиваль</li>
+         <li>Как складывалась идентичность фестиваля, синонимичен ли он развитию улицы Октябрьской, как складывался акцент на уличном искусстве разного калибра</li>
+         <li>О Принципе активного “делания” для всех участников семьи фестиваля</li>
+         <li>Зададим огненные вопросы от зрителей и подписчиков, и обсудим огненные скандалы, связанные со стрит-артом в Минске</li>
+         <li>Какие идеалы и мечты преследует Мила и Vulitsa Brazil Família в будущем, о перспективах проведения Rua Belarus в Бразилии</li>
+        </ul>
+        <p>Подробнее узнать о белорусско-бразильском фестивале можно по ссылкам:</p>
+        <ul>
+         <li>
+          <a href="http://www.vulica-brasil.by/">Оф сайт фестиваля: Программа, Художники и много общей информации</a>
+         </li>
+         <li>
+          <a href="https://afisha.tut.by/news/places/558463.html">Фото-репортаж о муралах фестиваля 2017 года от Tut.by</a>
+         </li>
+         <li>
+          <a href="https://minsknews.by/gid-po-vulica-brazil-v-minske-gde-iskat-graffiti-belorusskih-i-brazilskih-hudozhnikov/">Еще один небольшой репортаж о более ранних картинах-граффити на minsknews.by</a>
+         </li>
+        </ul>
+        <p>P.S. Вадиму заклеят рот, не пропустите</p>]]>
+      </description>
+      <itunes:summary>
+        Сегодня у нас в гостях Мила Котка - родная Мама арт-стрит-паблик-урбан-кино-фэшн-эду фестиваля Vulitsa Brazil!
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+015.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+015.mp3" length="184129454" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Aug 2019 02:00:00 GMT</pubDate>
+      <itunes:duration>02:07:52</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <itunes:episode>015</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">a1d23f7ec3956d423a81729403edec3c-10</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 016 (Неделя Tool)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>016 (Неделя Tool)</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!</p>
+          <p>В этот раз мы поговорим сразу на очень много тем:</p>
+          <ul>
+            <li>1 сентября и наше к нему отношение (с историями, конечно!)</li>
+            <li>Новый альбом Tool - Fear Innoculum, и его месте в наших сердечках</li>
+            <li>Главный концерт лета в Минске - Макс Корж на стадионе Динамо</li>
+            <li>Другие музыкальные новинки: альбомы СБПЧ, Lana del Rey, EP от Four Tet - все уже доступно в ваших любимых стриминг-сервисах</li>
+            <li>Вадим расскажет об удобстве eSim в честь начала его поддержки A1 в Беларуси</li>
+            <li>Затронем новости из-за бугра - Youtube с их новыми политиками против Hate Speech</li>
+            <li>Самый главный сок номера - возможно, на наших было совершено первое в истории космическое преступление! Пиратство? Войны за ресурсы? Все намного круче, включайте погромче</li>
+            <li>Не забудем и кино - новые трейлеры Irishman, Breaking Bad, новости из Венеции</li>
+          </ul>
+
+          <p>А напоследок держите ссылочки, по которым можно почитать больше о темах выпуска:</p>
+          <ul>
+            <li>Tool - <a href="http://smarturl.it/TOOLFIa">Fear Innoculum</a></li>
+            <li>Фронтмен Tool <a href="https://youtu.be/9-w-LFBw8Co">в гостях у Joe Roegan</a></li>
+            <li><a href="https://afisha.tut.by/news/anews/650703.html">Фоторепортаж Tut.by</a> с того самого концерта Макса Коржа</li>
+            <li><a href="https://42.tut.by/649112">Новость о запуске eSim в Беларуси</a></li>
+            <li><a href="https://www.nytimes.com/2019/08/23/us/nasa-astronaut-anne-mcclain.html"> Статья, описывающая обвинения</a> в первом в истории преступлении, совершенном из космоса</li>
+          </ul>
+
+          <p>Новые трейлеры:</p>
+          <ul>
+            <li><a href="https://youtu.be/h_2RjQwQGV0">Irishman</a> - фильм Netflix от Мартина Скорсезе</li>
+            <li><a href="https://www.youtube.com/watch?v=lZKqMVPlDg8">El Camino</a> - новый фильм по Breaking Bad</li>
+            <li><a href=" https://youtu.be/-y1HhAlAOTs">Marriage Story</a> - фильм-участник Венецианского кинофестиваля от Ноа Баумбаха с Адамом Драйвером и Скарлетт Йоханссон</li>
+            <li><a href="https://youtu.be/5btyBWXgl44">Джокер</a> - финальный трейлер нового фильма с Хоакином Фениксом </li>
+          </ul>
+          <p>В этом подкасте для вас грелись на солнышке Саша и Вадим, ребята ничем не примечательные, но общительные</p>
+        ]]>
+      </description>
+      <itunes:summary>
+        Podval.Трёп 016 присоединяется к неделе Tool и приглашает вас с собой в продолжение лета!
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+016.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+016.mp3" length="155582424" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Sep 2019 02:00:00 GMT</pubDate>
+      <itunes:duration>01:48:02</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <itunes:episode>016</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">3804362dcf1e2426be4cf0da907f3bec-8</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 017</title>
+      <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
+      <itunes:subtitle>017</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>Сегодня у нас в гостях Евгения, менеджер ивентов, а в прошлом - организатор концертов в Минске! На летней крыше вместе с ней мы обсудим самые музыкальные темы:</p>
+          <ul>
+            <li>Для начала опустимся в колодец ностальгии и вспомним наши первые посещения по-настоящему больших концертов</li>
+            <li>Узнаем у Жени о том, как организовать концерт, если у тебя есть своя молодая группа?</li>
+            <li>Насколько сложно в Минске договориться с клубом о проведении концерта и сколько это стоит?</li>
+            <li>Ренессанс национальной музыки: есть кто?</li>
+            <li>Почему в Беларусь не привезут Childish Gambino или Billy Eilish в ближайшие 15 лет? Какие у таких музыкантов райдеры?</li>
+            <li>Как рекламировать концерты в Минске для тех живых, кому ещё меньше 40?</li>
+            <li>Творческие люди - хорошо или плохо, как с ними жить?</li>
+            <li>Перспективные молодые группы Беларуси - кого мы видим лидерами местной сцены в ближайшие годы?</li>
+          </ul>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.017 вместе с гостем Женей из продюсерского центра.
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+017.png" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+017.mp3" length="136705297" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Sep 2019 02:00:00 GMT</pubDate>
+      <itunes:duration>01:34:56</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <itunes:episode>017</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+    <item>
+      <guid isPermaLink="false">12145db96d6db8b2cf377cc62124287f-7</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП – 018</title>
+      <itunes:author>ПОДВАЛ.ТОЛКОВЫЙ.ТРЁП</itunes:author>
+      <itunes:subtitle>018</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>Очередной Подвал.Толковый.Трёп встречает в гостях Алису - голодную до приключений организаторку тусовок Keep Minsk Weird Алиса залетела к нам совсем на чуть-чуть, чтобы поведать о своей тусовке и:</p>
+          <ul>
+            <li>Что такое KMW в принципе? Музыкальная туса, серия творческих проектов, #posteverything, или что-то ещё?</li>
+            <li>С чего начиналось участие Алисы в проекте, и при чем тут Боуи?</li>
+            <li>Какие другие серийные проекты делает Keep Minsk Weird: Кёртис Undead, Rough Trade Day</li>
+            <li>С какими сложностями придётся вам столкнуться и чем заручиться, чтобы делать подобные мероприятия на несколько тысяч человек</li>
+            <li>Насколько просто находить волонтеров и как KMW удаётся упорядочить работу с ними</li>
+            <li>Какое будущее Алиса видит для проекта, а главное - какой бы корпоратив она закатила для большой айтишной конторы</li>
+          </ul>
+          <p>На диване с Алисой сидел и не матерился Вадим - не самый свежий, но зато единственный местный и живой участник подкаста Подвал.Треп</p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.018 вместе с гостем Алисой из Keep Minsk Weird.
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+018.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+018.mp3" length="103619607" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Oct 2019 02:00:00 GMT</pubDate>
+      <itunes:duration>01:12:30</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <itunes:episode>018</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
 </rss>
