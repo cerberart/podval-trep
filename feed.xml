@@ -848,5 +848,51 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+    <item>
+      <guid isPermaLink="false">TODO</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 019 (The Joker)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>019</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>BOOOYS are back in town! Артем, Вадим и Саша старой гвардией записали новый подкаст!</p>
+          <p>Выпуск получился длинным и крайне насыщенным на новости и события, а в начале мы постраемся нескучно рассказать о том, где же мы все это время пропадали, и не только!</p>
+          <ul>
+            <li>Главной темой выпуска ожидаемо стал Джокер, Хоакин Феникс и рассуждения о комедиях нашего времени</li>
+            <li>Киноблок: Конец Cinemascope в Минске и где теперь смотреть культовое кино на больших экранах, а также много новостей и перебирания костей Netflix, грозим ему кулаком</li>
+            <li>Немного транспортных новостей о Минске - новый сервис Bolt, приход WizzAir и окончание сезона Kolobike и Eleven</li>
+            <li>Куча новой музыки: m83, Telefon Tel Aviv, 88rising, Caribou, Face, Gesaffelstein, Death Stranding</li>
+            <li>А в любимом блоке про планы на неделю расскажем о новом кино, концерте рэп-поэзии, кинолекциях и даже дадим домашнее задание!</li>
+          </ul>
+          <p>В следующий раз встретимся где-то через две недели, пишите комментарии, оставляйте голосовые сообщения!</p>
+          <p>Немного ссылок на темы выпуска от Вадима:</p>
+          <ul>
+            <li><a href="https://www.vanityfair.com/hollywood/2019/10/joaquin-phoenix-cover-story">Интервью Vanity Fair</a> с командой Джокера, в котором прозвучала мысль о сложности комедии в 2019</li>
+            <li><a href="https://afisha.tut.by/news/anews/653108.html">Статья Tut.by</a> о том, что Cinemascope прекращает работу</li>
+            <li><a href ="https://www.indiewire.com/2019/10/alfonso-cuaron-overall-deal-1202180641/">Новость о том, что Альфонсо Куарон уходит от Netflix к Apple TV+</a></li>
+            <li><a href="https://news.tut.by/society/647636.html">Новость Tut.by</a> о том, что в Минск приходит WizzAir</li>
+            <li><a href="https://vk.com/lectures_kino">Кинолекции с Никитой Лаврецким</li>
+            <li><a href="https://youtu.be/1JLUn2DFW4w">Трейлер домашнего задания</a>, фильма El Camino</li>
+          </ul>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.019 о новом фильме Джокер, куче новостей и наших приключениях в сентябре
+      </itunes:summary>
+      <itunes:image href="TODO" />
+      <enclosure url="TODO" length="TODO" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Oct 2019 02:00:00 GMT</pubDate>
+      <itunes:duration>TODO</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <itunes:episode>019</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
