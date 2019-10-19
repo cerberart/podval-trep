@@ -850,7 +850,7 @@
     </item>
 
     <item>
-      <guid isPermaLink="false">TODO</guid>
+      <guid isPermaLink="false">7e59b1cc3d7c27d01a14d59c8be061b1-12</guid>
       <itunes:season>1</itunes:season>
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
@@ -884,15 +884,15 @@
       <itunes:summary>
         ПОДВАЛ.ТРЁП.019 о новом фильме Джокер, куче новостей и наших приключениях в сентябре
       </itunes:summary>
-      <itunes:image href="TODO" />
-      <enclosure url="TODO" length="TODO" type="audio/mpeg"/>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+019.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+019.mp3" length="187334407" type="audio/mpeg"/>
       <pubDate>Fri, 17 Oct 2019 02:00:00 GMT</pubDate>
-      <itunes:duration>TODO</itunes:duration>
+      <itunes:duration>02:11:22</itunes:duration>
       <itunes:order>19</itunes:order>
       <itunes:episode>019</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>yes</itunes:explicit>
     </item>
   </channel>
 </rss>
