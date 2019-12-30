@@ -947,5 +947,36 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>yes</itunes:explicit>
     </item>
+
+
+    <item>
+      <guid isPermaLink="false">11db1ed2374d691e4cf98409b67560ef-11</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 021 (Дед Мороз убийца, итоги года и топы в любимых категориях)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>021</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>А вот и новогоднее поздравление от команды Подвал.Трёп! Заряженный любовью, позитивом и духом Деда Мороза итоговый подкаст о 2019 году в наших жизнях.</p>
+          <p>Подводим традиционные для всех медийных личностей итоги года в самых интересных для нас областях: кино, музыка, death stranding.<br />Обмениваемся мыслями об итогах года для наших жизней (спойлер: слегка меланхолично)<br />И все!</p>
+          <p>Всех с наступающим! Готовьте игристое, пусть желаемое сбывается!</p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.021 Дед Мороз убийца, итоги года и топы в любимых категориях
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+021.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+021.mp3" length="188545611" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Dec 2019 01:00:00 GMT</pubDate>
+      <itunes:duration>02:10:56</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <itunes:episode>021</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
   </channel>
 </rss>
