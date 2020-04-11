@@ -947,8 +947,7 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>yes</itunes:explicit>
     </item>
-
-
+    
     <item>
       <guid isPermaLink="false">11db1ed2374d691e4cf98409b67560ef-11</guid>
       <itunes:season>1</itunes:season>
@@ -974,6 +973,43 @@
       <itunes:duration>02:10:56</itunes:duration>
       <itunes:order>21</itunes:order>
       <itunes:episode>021</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">11db1ed2374d691e4cf98409b67560ef-11</guid>
+      <itunes:season>1</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 022 (СИДИ ДОМА)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>022</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В первом онлайн-выпуске речь пошла о том, как мы проводим время дома во время некарантина в Минске. Саша, Артем и Вадим рассказали о том, что помогает не убиться головой в стену квартиры от скуки: главным образом, о новой музыке и кино.</p>
+          <p>В этом тестовом выпуске:</p>
+          <ul>
+            <li><a href="https://album.link/by/i/1499438252">Новый альбом Flashbulb</a>, известного электронщика из Штатов. Плотный и знакомый звук создаст ощущение уюта</li>
+            <li><a href="https://album.link/by/i/1503396296">Свежак</a> от чилийско-американского диджея и музыканта Nicolas Jaar. Латинские мотивы и теплый звук согреют не хуже чашки чая (а еще он красивый)</li>
+            <li>Атмосферный и темный новый прог-альбом от <a href="https://album.link/PC0TPZT66w4vr">Pure Reason Revolution</a>. Сами знаете зачем такое слушать</li>
+            <li>Признанный японский бэнд Envy выпустили альбом <a href="https://album.link/by/i/1485654074">Fallen Crimson</a> - рекомендация от Саши для скучающих по пост-хардкорным временам.</li>
+            <li>Авторский поп-рок от набирающего популярность и сложно пишущегося Yves Tumor - его <a href="https://album.link/by/i/1494929769">новый альбом</a> для тех, кому скучно-и-спина-болит-лежать</li>
+          </ul>
+          <p>Кинорекомендация прошлой недели - современный хоррор <a href="https://youtu.be/WO_FJdiY9dA">Человек-невидимка</a> - переосмысление классики от Ли Уонелла (Астрал, Апгрейд). А вот Платформу как-то не советуем, лучше зацените <a href="https://letterboxd.com/film/high-rise-2015/">Высотку</a></p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.022 Дед Мороз убийца, итоги года и топы в любимых категориях
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+022.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+022.mp3" length="№№№ПОПА№АРТЕМА№№№" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Apr 2020 20:00:00 GMT</pubDate>
+      <itunes:duration>###02:10:56#ПОПА АРТЕМА##</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <itunes:episode>022</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>yes</itunes:explicit>
