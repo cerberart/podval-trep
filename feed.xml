@@ -979,8 +979,8 @@
     </item>
     
     <item>
-      <guid isPermaLink="false">11db1ed2374d691e4cf98409b67560ef-11</guid>
-      <itunes:season>1</itunes:season>
+      <guid isPermaLink="false">9053a825dd99d66820e2cf61067db673-13</guid>
+      <itunes:season>2</itunes:season>
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
       <dc:creator>PODVAL Sessions</dc:creator>
@@ -1005,14 +1005,14 @@
         ПОДВАЛ.ТРЁП.022 Дед Мороз убийца, итоги года и топы в любимых категориях
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+022.jpg" />
-      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+022.mp3" length="№№№ПОПА№АРТЕМА№№№" type="audio/mpeg"/>
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+022.mp3" length="210376619" type="audio/mpeg"/>
       <pubDate>Sat, 11 Apr 2020 20:00:00 GMT</pubDate>
-      <itunes:duration>###02:10:56#ПОПА АРТЕМА##</itunes:duration>
-      <itunes:order>21</itunes:order>
+      <itunes:duration>01:27:39</itunes:duration>
+      <itunes:order>22</itunes:order>
       <itunes:episode>022</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
-      <itunes:explicit>yes</itunes:explicit>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
