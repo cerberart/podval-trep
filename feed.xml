@@ -1014,5 +1014,40 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    
+    <item>
+      <guid isPermaLink="false">9053a825dd99d66820e2cf61067db673-13</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 023 (Tiger King)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>023</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В этом выпуске:</p>
+          <ul>
+            <li>Документальный сериал Tiger King от Netflix</li>
+            <li>Долгожданный альбом от The Strokes спустя 7 лет тишины - <a href="https://album.link/by/i/1498121188">The New Abnormal</a></li>
+            <li><a href="https://smarturl.it/id_sdj_live">Кач и танцы от Вани Дорна</a> в студии Live</li>
+            <li>EP с экспериментальной электроникой от Джона Фрушанте <a href="https://evar-records.bandcamp.com/album/look-down-see-us">под ником Trickfinger</a></li>
+            <li>Достойны упоминания: <a href="https://album.link/by/i/1506084343">Wes Borland - Eat the Day demos</a>, <a href="https://album.link/by/i/1495719346">Emancipator - Mountain of Memory</a>, <a href="https://songwhip.com/album/enter-shikari/the-great-unknown">Enter Shikari - The Great Unknown EP</a>, <a href="https://songwhip.com/album/yumi-zouma/truth-or-consequences">Yumi Zouma - Truth or Consequences</a></li>
+          </ul>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.023 Tiger King от Netflix
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+023.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+023.mp3" length="###АРТЕМОВА ПИПКА###" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
+      <itunes:duration>01:30:27</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <itunes:episode>023</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
