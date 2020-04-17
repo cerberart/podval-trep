@@ -1016,7 +1016,7 @@
     </item>
     
     <item>
-      <guid isPermaLink="false">9053a825dd99d66820e2cf61067db673-13</guid>
+      <guid isPermaLink="false">2efa57055df129dd73aaa78e0bec8699-8</guid>
       <itunes:season>2</itunes:season>
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
@@ -1040,7 +1040,7 @@
         ПОДВАЛ.ТРЁП.023 Tiger King от Netflix
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+023.jpg" />
-      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+023.mp3" length="###АРТЕМОВА ПИПКА###" type="audio/mpeg"/>
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+023.mp3" length="130249709" type="audio/mpeg"/>
       <pubDate>Fri, 17 Apr 2020 00:00:00 GMT</pubDate>
       <itunes:duration>01:30:27</itunes:duration>
       <itunes:order>23</itunes:order>
