@@ -1049,5 +1049,48 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    
+    <item>
+      <guid isPermaLink="false">2efa57055df129dd73aaa78e0bec8699-8</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРЁП – 024 (Grisly Faye)</title>
+      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <itunes:subtitle>024</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В 24 выпуске к нам присоединилась Маргарита a.k.a. Grisly Faye из северного, но солнечного Эдинбурга.
+          В этом подкасте мы впервые устроили веселуху с прослушиванием демок, которые приходят на рассмотрелние лейблу Ezhevika, расспросили Марго о ее карьере, переездах и музыке, которую она ставит на своем радио шоу.</p>
+          <p>Ссылочки из выпуска:</p>
+          <ul>
+            <li>Symphonik - <a href="https://album.link/s/1XeHTE7xplzeC2hHu0YOFy">новый альбом от Thievery</a> Corporation, записанный с симфоническим окрестром</li>
+            <li>EOB - <a href="https://album.link/by/i/1497027406">альбом Earth</a> от Эда, гитариста Radiohead </li>
+            <li><a href="https://soundcloud.com/ivarin/prks">Ivarin</a> - рекомендация от Маргариты </li>
+            <li><a href="https://soundcloud.com/chea…/inability-to-construct-a-future">Cheap Tunes</a> - еще одна рекомендация от Grisly Faye сложно устроенной, но простой музыки</li>
+          </ul>
+          <p>Пара ссылок на нашу гостью Grisly Faye</p>
+          <ul>
+            <li><a href="https://www.instagram.com/grislyfaye/">Instagram - grislyfaye</a></li>
+            <li><a href="https://www.youtube.com/user/grislyfaye">Youtube - Grisly Faye</a></li>
+            <li><a href="https://youtu.be/P_R3Q_4cIoY">Сет Марго для Podval.Sessions</a></li>
+            <li><a href="https://hromadske.radio/podcasts/from-far-away">Радиоблог FROM FAR AWAY</a>, которое Grisly Faye ведет для Громадське радiо</li>
+          </ul>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРЁП.024 Grisly Faye
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+024.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+024.mp3" length="XXXXXXX" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 GMT</pubDate>
+      <itunes:duration>XXXXXXX</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <itunes:episode>024</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
