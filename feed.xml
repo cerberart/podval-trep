@@ -1051,7 +1051,7 @@
     </item>
     
     <item>
-      <guid isPermaLink="false">2efa57055df129dd73aaa78e0bec8699-8</guid>
+      <guid isPermaLink="false">566f001e509fd42d82839d6eff55cd55-9</guid>
       <itunes:season>2</itunes:season>
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
@@ -1083,9 +1083,9 @@
         ПОДВАЛ.ТРЁП.024 Grisly Faye
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+024.jpg" />
-      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+024.mp3" length="XXXXXXX" type="audio/mpeg"/>
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+024.mp3" length="148993297" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2020 00:00:00 GMT</pubDate>
-      <itunes:duration>XXXXXXX</itunes:duration>
+      <itunes:duration>1:43:28</itunes:duration>
       <itunes:order>24</itunes:order>
       <itunes:episode>024</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
