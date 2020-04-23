@@ -1056,8 +1056,8 @@
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
       <dc:creator>PODVAL Sessions</dc:creator>
-      <title>ПОДВАЛ.ТРЁП – 024 (Grisly Faye)</title>
-      <itunes:author>ПОДВАЛ.ТРЁП</itunes:author>
+      <title>ПОДВАЛ.МУЗЫКА – 024 (Grisly Faye)</title>
+      <itunes:author>ПОДВАЛ.МУЗЫКА</itunes:author>
       <itunes:subtitle>024</itunes:subtitle>
       <description>
         <![CDATA[
@@ -1080,7 +1080,7 @@
         ]]>
       </description>
       <itunes:summary>
-        ПОДВАЛ.ТРЁП.024 Grisly Faye
+        ПОДВАЛ.МУЗЫКА.024 Grisly Faye
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+024.jpg" />
       <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+024.mp3" length="148993297" type="audio/mpeg"/>
