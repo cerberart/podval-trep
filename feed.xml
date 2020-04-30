@@ -1056,7 +1056,7 @@
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
       <dc:creator>PODVAL Sessions</dc:creator>
-      <title>ПОДВАЛ.МУЗЫКА – 024 (Grisly Faye)</title>
+      <title>ПОДВАЛ.МУЗЫКА – 024 (Grisly Faye, EOB, Thievery Corporation)</title>
       <itunes:author>ПОДВАЛ.МУЗЫКА</itunes:author>
       <itunes:subtitle>024</itunes:subtitle>
       <description>
@@ -1080,7 +1080,7 @@
         ]]>
       </description>
       <itunes:summary>
-        ПОДВАЛ.МУЗЫКА.024 Grisly Faye
+        ПОДВАЛ.МУЗЫКА.024 Grisly Faye, EOB, Thievery Corporation
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+024.jpg" />
       <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+024.mp3" length="148993297" type="audio/mpeg"/>
@@ -1094,7 +1094,7 @@
     </item>
     
     <item>
-      <guid isPermaLink="false">566f001e509fd42d82839d6eff55cd55-9</guid>
+      <guid isPermaLink="false">b606870baf3372a91ffbaecd18d9c8de-13</guid>
       <itunes:season>2</itunes:season>
       <category>podcast</category>
       <link>https://linktr.ee/podval.sessions</link>
@@ -1121,9 +1121,9 @@
         ПОДВАЛ.МУЗЫКА.025 Никита Лаврецкий и Дау
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+025.jpg" />
-      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+025.mp3" length="###ОГРОМНЫЙ###" type="audio/mpeg"/>
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+025.mp3" length="215776070" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2020 15:00:00 GMT</pubDate>
-      <itunes:duration>####ГО В ОРЕХ####</itunes:duration>
+      <itunes:duration>2:29:50</itunes:duration>
       <itunes:order>25</itunes:order>
       <itunes:episode>025</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
