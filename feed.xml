@@ -1128,7 +1128,7 @@
       <itunes:episode>025</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>yes</itunes:explicit>
     </item>    
   </channel>
 </rss>
