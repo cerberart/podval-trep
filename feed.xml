@@ -1092,5 +1092,43 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    
+    <item>
+      <guid isPermaLink="false">566f001e509fd42d82839d6eff55cd55-9</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.КИНО – 025 (Никита Лаврецкий, Дау)</title>
+      <itunes:author>ПОДВАЛ.КИНО</itunes:author>
+      <itunes:subtitle>025</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>Встречайте первый выпуск Подвал.Кино! Нашим первым киногостем стал Никита Лаврецкий - кинорежиссер и кинокритик. В 150-минутном выпуске мы поговорили о творчестве Никиты, скандальном проекте Дау и комедии Limmy's Homemade Show.</p>
+          <p>В Подкасте участвовали: Никита Лаврецкий, Вадим Баяндин, Саша Нех.</p>
+          <p></p>
+          <p>Все ссылки из выпуска сразу: https://telegra.ph/PodvalKino-s-Nikitoj-Lavreckim-04-21</p>
+          <p>Канал Никиты с его фильмами: https://www.youtube.com/channel/UCJAy7YIsl1iobSCLaqMNCRA</p>
+          <p>Сайт Dau Movie где можно посмотреть все вышедшие фильмы: https://www.dau.movie/en/</p>
+          <p>Limmy’s Homemade Show на BBC Scotland: https://www.bbc.co.uk/programmes/b09yj4rc</p>
+
+          <p>Наш телеграм-канал: https://t.me/podvalsessions</p>
+          <p>Наш Youtube-канал с подкастами и миксами: https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ</p>
+          <p>Список всех фильмов из подкаста в 2020: https://letterboxd.com/sea5calf/list/podvalmovies/</p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.МУЗЫКА.025 Никита Лаврецкий и Дау
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+025.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+025.mp3" length="###ОГРОМНЫЙ###" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Apr 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>####ГО В ОРЕХ####</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <itunes:episode>025</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>    
   </channel>
 </rss>
