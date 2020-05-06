@@ -1129,6 +1129,48 @@
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>yes</itunes:explicit>
-    </item>    
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">b606870baf3372a91ffbaecd18d9c8de-13</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.МУЗЫКА – 026 (NEONKNIGHT, The Rolling Stones, Apparat)</title>
+      <itunes:author>ПОДВАЛ.МУЗЫКА</itunes:author>
+      <itunes:subtitle>025</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В 26 выпуске у нас в гостях  Юра Шевченко - киевский музыкант со своим сольным проектом NEONKNIGHT. Юра рассказал о переходе от творчества в группе nousinthis к индивидуальному творчеству. Мы порассуждали об украинской музыкальной сцене, обсудили новые виды потребления музла. Не забыли и про интерактив - в этот раз демки из почтового ящика Ezhevika приятно удивили!</p>
+          <p>В Подкасте участвовали: Юра NEONKNIGHT Шевченко, Артем Шейн, Костя Курьянов.</p>
+          <p></p>
+          <p>Треки NEONKNIGHT на <a href="https://soundcloud.com/neonknightiam">Soundcloud</a></p>
+          <p>Instagram - <a href="https://www.instagram.com/neonknight.iam/">neonknight.iam</a></p>
+          <p></p>
+          <p>Релизы, которые мы обсудили:</p>
+          <p><a href="https://song.link/by/i/1508169490">Rolling Stones - Living in a Ghost Town (Single)</a></p>
+          <p><a href="https://album.link/by/i/1501393565">Sweatson Klank - Lucky Shores (EP)</a></p>
+          <p><a href="https://album.link/by/i/1507168211">Apparat - Capri Revolution (Soundracks)</a></p>
+          <p><a href="https://songwhip.com/song/rival-consoles/untravel">Rival Consoles - Untravel (Single)</a></p>
+          <p></p>
+          <p><a href="https://t.me/podvalsessions">Наш телеграм-канал</a></p>
+          <p><a href="https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ">Наш Youtube-канал с подкастами и миксами</a></p>
+          <p><a href="https://letterboxd.com/sea5calf/list/podvalmovies/">Список всех фильмов из подкаста в 2020</a></p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.МУЗЫКА.026 NEONKNIGHT, The Rolling Stones, Apparat
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+026.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+026.mp3" length="174672083" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>2:01:17</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <itunes:episode>026</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
