@@ -1139,7 +1139,7 @@
       <dc:creator>PODVAL Sessions</dc:creator>
       <title>ПОДВАЛ.МУЗЫКА – 026 (NEONKNIGHT, The Rolling Stones, Apparat)</title>
       <itunes:author>ПОДВАЛ.МУЗЫКА</itunes:author>
-      <itunes:subtitle>025</itunes:subtitle>
+      <itunes:subtitle>026</itunes:subtitle>
       <description>
         <![CDATA[
           <p>В 26 выпуске у нас в гостях  Юра Шевченко - киевский музыкант со своим сольным проектом NEONKNIGHT. Юра рассказал о переходе к индивидуальному творчеству, мы порассуждали об украинской музыкальной сцене и обсудили новые виды потребления музла. Не забыли и про интерактив - в этот раз демки из почтового ящика Ezhevika приятно удивили!</p>
@@ -1168,6 +1168,40 @@
       <itunes:duration>2:01:17</itunes:duration>
       <itunes:order>26</itunes:order>
       <itunes:episode>026</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">884cf3149424f66c821c8b0f1d2008c7-7</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРËП – 027 (PΦDVλLTR-3P)</title>
+      <itunes:author>ПОДВАЛ.ТРËП</itunes:author>
+      <itunes:subtitle>027</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В последнем выпуске Подвал.Треп мы обсудили последние новости, а Вадим вышел из себя (дослушай до конца, чтобы узнать, почему).</p>
+          <p></p>
+          <p>Новости об автобусах Минсктранса, Сыне Grimes и Илона Маска, нераскрытом таланте Николаса Кейджа, десятилетии канала Pewdiepie, и внезапно о мишках и котиках!</p>
+          <p></p>
+          <p>Запускай на фоне нашу болтовню, чтобы создать неповторимую атмосферу старого-доброго Трёпа ни о чем за бокалом пивка</p>
+          <p></p>
+          <p>В подкасте участвовали: Саша Нех, Артем Шеин, Вадим Баяндин</p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.МУЗЫКА.027 (PΦDVλLTR-3P)
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+027.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+027.mp3" length="111762538" type="audio/mpeg"/>
+      <pubDate>Thu, 14 May 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>1:17:36</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <itunes:episode>027</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
