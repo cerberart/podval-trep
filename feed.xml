@@ -1116,7 +1116,7 @@
         ]]>
       </description>
       <itunes:summary>
-        ПОДВАЛ.МУЗЫКА.025 Никита Лаврецкий и Дау
+        ПОДВАЛ.Кино.025 Никита Лаврецкий и Дау
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+025.jpg" />
       <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+025.mp3" length="215776070" type="audio/mpeg"/>
@@ -1200,6 +1200,78 @@
       <itunes:duration>1:17:36</itunes:duration>
       <itunes:order>27</itunes:order>
       <itunes:episode>027</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">XXXX</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.КИНО – 028(1) (Игорь Чищеня, BelarusDocs)</title>
+      <itunes:author>ПОДВАЛ.КИНО</itunes:author>
+      <itunes:subtitle>028(1)</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В гостях у Подвал.Кино Игорь Чищеня - белорусский режиссер-документалист, участник кинофестиваля Listapad, автор фильмов GENERATION PLAY, Подых балот, Першадрук и других.</p>
+          <p>В первой части подкаста речь пойдет личностях в белорусском документальном кино, фестивале BelarusDocs, тут же можно найти очень много рекомендаций от нашего гостя.
+          <p>В Подкасте участвовали: Игорь Чищеня, Вадим Баяндин, Саша Нех.</p>
+          <p></p>
+          <p><a href="https://telegra.ph/PodvalKino-028-Igor-CHishchenya-Devs-05-14">Все ссылки из выпуска сразу</a></p>
+          <p></p>
+          <p><a href="https://t.me/podvalsessions">Наш телеграм-канал</a></p>
+          <p><a href="https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ">Наш Youtube-канал с подкастами и миксами</a></p>
+          <p><a href="https://letterboxd.com/sea5calf/list/podvalmovies/">Список всех фильмов из подкаста в 2020</a></p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.Кино.028 Игорь Чищеня и BelarusDocs
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+028.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+028+(Part+1).mp3" length="XXXX" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>XXXX</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <itunes:episode>028</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">XXXX</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.КИНО – 028(2) (Игорь Чищеня, Devs)</title>
+      <itunes:author>ПОДВАЛ.КИНО</itunes:author>
+      <itunes:subtitle>028(2)</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В гостях у Подвал.Кино Игорь Чищеня - белорусский режиссер-документалист, участник кинофестиваля Listapad, автор фильмов GENERATION PLAY, Подых балот, Першадрук и других.</p>
+          <p>Во второй части подкаста мы расскажем о трех фильмах Игоря, а также в деталях обсудим мини-сериал Devs от Алекса Гарленда.
+          <p>В Подкасте участвовали: Игорь Чищеня, Вадим Баяндин, Саша Нех.</p>
+          <p></p>
+          <p><a href="https://telegra.ph/PodvalKino-028-Igor-CHishchenya-Devs-05-14">Все ссылки из выпуска сразу</a></p>
+          <p></p>
+          <p><a href="https://t.me/podvalsessions">Наш телеграм-канал</a></p>
+          <p><a href="https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ">Наш Youtube-канал с подкастами и миксами</a></p>
+          <p><a href="https://letterboxd.com/sea5calf/list/podvalmovies/">Список всех фильмов из подкаста в 2020</a></p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.Кино.028 Игорь Чищеня и BelarusDocs
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+028.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+028+(Part+2).mp3" length="XXXX" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>XXXX</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <itunes:episode>028</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
