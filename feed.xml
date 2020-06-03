@@ -1276,5 +1276,38 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
     </item>
+    
+    <item>
+      <guid isPermaLink="false">e64a71ad121fd0d8dab5348967ffaad0-6</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.МУЗЫКА – 029 (Дмитрий Литвинович)</title>
+      <itunes:author>ПОДВАЛ.МУЗЫКА</itunes:author>
+      <itunes:subtitle>029</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>Еще не знаком с Димой Литвиновичем a.k.a. Diamos Roll? Тогда бегом включай наш свежий выпуск!</p>
+          <p>Из него ты узнаешь историю знакомства Димы с электронщиком Bonobo в минском баре, получишь пошаговую инструкцию о том, как заинтересовать лейбл Ezhevika, Ninja Tunes или любой другой, и сможешь наполнить твой плейлист новыми рекомендациями от нашего гостя.</p>
+          <p></p>  
+          <p>В подкасте участвовали Дима Литвинович, Костя Курьянов и Артем Шеин.</p>
+          <p><a href="https://t.me/podvalsessions">Наш телеграм-канал</a></p>
+          <p><a href="https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ">Наш Youtube-канал с подкастами и миксами</a></p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.Музыка 029 Дмитрий Литвинович
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+029.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+029.mp3" length="99143515" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>1:08:50</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <itunes:episode>029</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
