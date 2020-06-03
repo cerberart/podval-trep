@@ -1264,7 +1264,7 @@
         ]]>
       </description>
       <itunes:summary>
-        ПОДВАЛ.Кино.028 Игорь Чищеня и BelarusDocs
+        ПОДВАЛ.КИНО.028 Игорь Чищеня и BelarusDocs
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+028.jpg" />
       <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+028+(Part+2).mp3" length="126468641" type="audio/mpeg"/>
@@ -1297,7 +1297,7 @@
         ]]>
       </description>
       <itunes:summary>
-        ПОДВАЛ.Музыка 029 Дмитрий Литвинович
+        ПОДВАЛ.МУЗЫКА 029 Дмитрий Литвинович
       </itunes:summary>
       <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+029.jpg" />
       <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+029.mp3" length="99143515" type="audio/mpeg"/>
@@ -1308,6 +1308,40 @@
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>no</itunes:explicit>
+    </item>
+    
+    <item>
+      <guid isPermaLink="false">20fb08d2db5447d0bdde817fef0f6040-7</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>ПОДВАЛ.ТРËП – 030 (Марина Гречкина)</title>
+      <itunes:author>ПОДВАЛ.ТРËП</itunes:author>
+      <itunes:subtitle>030</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>Наш новый выпуск - с татуировщиком Мариной Гречкиной</p>
+          <p>Почему Марина называет себя цветочной феей? Тату - это навсегда? Зачем спрашивать и пояснять за тату? Какое тату сделать, чтобы через 10 лет не было стыдно? Все это, и не только, в выпуске номер 30!</p>
+          <p>Ссылка на Instagram Марины - https://www.instagram.com/marina_gre4kina/</p>
+          <p></p>  
+          <p>В подкасте участвовали Марина Гречкина, Саша Нех и Вадим Баяндин.</p>
+          <p><a href="https://t.me/podvalsessions">Наш телеграм-канал</a></p>
+          <p><a href="https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ">Наш Youtube-канал с подкастами и миксами</a></p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРËП 030 Марина Гречкина
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+030.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+030.mp3" length="103488200" type="audio/mpeg"/>
+      <pubDate>Wed, 03 June 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>1:11:51</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <itunes:episode>030</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>yes</itunes:explicit>
     </item>
   </channel>
 </rss>
