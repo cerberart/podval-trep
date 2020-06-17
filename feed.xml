@@ -1376,5 +1376,39 @@
       <content:encoded><![CDATA[]]></content:encoded>
       <itunes:explicit>yes</itunes:explicit>
     </item>
+    
+    <item>
+      <guid isPermaLink="false">8c84705d2b2cd959eed56020720aa2cd-5</guid>
+      <itunes:season>2</itunes:season>
+      <category>podcast</category>
+      <link>https://linktr.ee/podval.sessions</link>
+      <dc:creator>PODVAL Sessions</dc:creator>
+      <title>Кино – 032 (Da 5 Bloods, автокинотеатр)</title>
+      <itunes:author>ПОДВАЛ.КИНО</itunes:author>
+      <itunes:subtitle>032</itunes:subtitle>
+      <description>
+        <![CDATA[
+          <p>В этом выпуске Подвал.Кино мы по-домашнему спорим о новом фильме Da 5 Bloods от Спайка Ли. Затронем и биографию режиссера, и современные протесты, и даже порекомендуем другие фильмы по теме.</p>
+          <p>Фильм можно посмотреть как после, так и до прослушивания нашего подкаста, но глянуть его все-таки стоит.</p> 
+          <p>В подкасте участвовали Вадим Баяндин, Саша Нех и Артем Шеин.</p>
+          <p></p>
+          <p>Список всех фильмов из подкаста в 2020: https://letterboxd.com/sea5calf/list/podvalmovies/</p>
+          <p><a href="https://t.me/podvalsessions">Наш телеграм-канал</a></p>
+          <p><a href="https://www.youtube.com/channel/UC0vr-2wdIgU1xDWW_3oVyHQ">Наш Youtube-канал с подкастами и миксами</a</p>
+        ]]>
+      </description>
+      <itunes:summary>
+        ПОДВАЛ.ТРËП 032 Da 5 Bloods, автокинотеатр
+      </itunes:summary>
+      <itunes:image href="https://podval-trep.s3.eu-central-1.amazonaws.com/images/PODVAL.TREP+-+032.jpg" />
+      <enclosure url="https://podval-trep.s3.eu-central-1.amazonaws.com/PODVAL.TREP+-+032.mp3" length="83745856" type="audio/mpeg"/>
+      <pubDate>Wed, 17 June 2020 15:00:00 GMT</pubDate>
+      <itunes:duration>1:04:38</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <itunes:episode>032</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
