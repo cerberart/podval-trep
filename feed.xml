@@ -30,6 +30,7 @@
       <itunes:category text="Places &amp; Travel" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:block>yes</itunes:block>
 
     <item>
       <guid isPermaLink="false">lakjs-asduh3odhiqlsdbka</guid>
